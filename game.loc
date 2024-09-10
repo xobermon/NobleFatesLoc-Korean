@@ -465,21 +465,21 @@ Oct.Abilities.Vulnerable.description=1시간 동안 대상의 방어력 -10<br>�
 \\	Oct.Belongings.Manager.autoClaimTooltip=Auto Claim allows Mortals to claim the Gear they prefer for each slot from the available Claimables.<br><br>Mortals choose in order of Title, followed by Maturity, then Ambition. They take into account Preferences, Skills, Job Assignments, Wants and Gear Buffs.<br><br>They do not claim more than they need nor do they consider the desires of other Mortals.<br><br>Gear is automatically marked Claimable if it passes the Claimable Rules. You can override the Claimable flag per Item.<br><br>The Auto Claim Rules dictate the additional rules that your Mortals must follow when claiming a Claimable.<br><br>You can override a Mortal's choices by Giving or Taking Items from them at any time.
 \\
 \\\\
-Oct.Belongings.Manager.autoClaimTooltip=\\untranslated
+Oct.Belongings.Manager.autoClaimTooltip=자동 획득은 각 슬롯에 획득 가능한 장비 중 선호하는 장비를 획득해 넣게 해줍니다.<br><br>선택 순서는 호칭, 성장도, 야심입니다. 선호도, 스킬, 일 배정, 요구 및 장비 강화 효과를 고려합니다.<br><br>필요 이상의 장비를 획득하거나, 다른 사람들의 요구를 고려하지 않습니다.<br><br>장비가 획득 가능 규칙을 준수하면 자동으로 획득 가능으로 표시됩니다. 아이템별로 획득 가능 플래그를 무효화할 수 있습니다.<br><br>자동 획득 규칙은 획득 가능한 아이템을 획득할 때 따라야 하는 추가 규칙을 규정합니다.<br><br>언제든지 아이템을 주거나 받음으로써 선택보다 우선 적용할 수 있습니다.
 
 \\\\
 \\
 \\	Oct.Belongings.Manager.autoJunkTooltip=Auto Junk allows you to define a set of Rules that will cause Items to be automatically considered Junk by your Mortals.<br><br>Junk can be stored separately from other Items (or not at all) and is easier to filter out and sell.<br><br>There are several disabled Rules in the list that can be beneficial to enable as your game progresses.
 \\
 \\\\
-Oct.Belongings.Manager.autoJunkTooltip=\\untranslated
+Oct.Belongings.Manager.autoJunkTooltip=자동 폐기를 사용하면 아이템을 자동으로 쓰레기로 간주하는 규칙을 지정할 수 있습니다.<br><br>쓰레기는 다른 아이템과 별도로 보관할 수 있으며(또는 아예 보관하지 않을 수도 있음), 필터링하여 판매하기가 더 쉽습니다.<br><br>게임을 진행하면서 활성화하면 도움이 될 수 있는, 몇 가지 비활성화된 규칙이 있습니다.
 
 \\\\
 \\
 \\	Oct.Belongings.Manager.autoSalvageTooltip=Auto Salvage allows you to define a set of Rules that will cause your Mortals to automatically queue Gear up to be Salvaged.<br><br>Salvaging recovers some resources when the Salvaged Item is destroyed, so it's a better option than letting it decay.
 \\
 \\\\
-Oct.Belongings.Manager.autoSalvageTooltip=\\untranslated
+Oct.Belongings.Manager.autoSalvageTooltip=자동 재활용에서는 자동으로 장비를 재활용 대기열에 넣도록 하는 규칙들을 정의할 수 있습니다.<br><br>재활용하면 아이템이 파괴될 때 일부 자원이 회수되므로, 그냥 썩게 두는 것보다 나은 선택입니다.
 
 \\\\
 \\
@@ -8051,14 +8051,14 @@ Oct.Code.Belongings.IncludedIn={belonging}에 포함
 \\	Oct.Code.Belongings.Returned={character} returned {belonging}
 \\
 \\\\
-Oct.Code.Belongings.Returned=\\untranslated
+Oct.Code.Belongings.Returned={character}이(가) {belonging}을(를) 돌려줬습니다
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Claimed={character} claimed {belonging}
 \\
 \\\\
-Oct.Code.Belongings.Claimed=\\untranslated
+Oct.Code.Belongings.Claimed={character}이(가) {belonging}을(를) 받았습니다
 
 \\\\
 \\
@@ -8184,7 +8184,7 @@ Oct.Code.Belongings.Tabs.Jobs=일
 \\	Oct.Code.Belongings.Autonomous.Title=Auto Claim
 \\
 \\\\
-Oct.Code.Belongings.Autonomous.Title=\\untranslated
+Oct.Code.Belongings.Autonomous.Title=자동 획득
 
 \\\\
 \\
@@ -8198,21 +8198,21 @@ Oct.Code.Belongings.Header=소지품
 \\	Oct.Code.Belongings.AutoClaim.ClaimNow=Claim Now
 \\
 \\\\
-Oct.Code.Belongings.AutoClaim.ClaimNow=\\untranslated
+Oct.Code.Belongings.AutoClaim.ClaimNow=지금 획득
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Considering={character} is considering {slot} options...
 \\
 \\\\
-Oct.Code.Belongings.Considering=\\untranslated
+Oct.Code.Belongings.Considering={character}이(가) {slot} 옵션을 생각하고 있습니다
 
 \\\\
 \\
 \\	Oct.Code.Belongings.AutoClaim.In=Auto Claims in {timeframe}...
 \\
 \\\\
-Oct.Code.Belongings.AutoClaim.In=\\untranslated
+Oct.Code.Belongings.AutoClaim.In={timeframe} 후 자동 획득
 
 \\\\
 \\
@@ -13959,7 +13959,7 @@ Oct.Code.Commands.Gather=모으기
 \\	Oct.Code.Common.Add=Add
 \\
 \\\\
-Oct.Code.Common.Add=\\untranslated
+Oct.Code.Common.Add=추가
 
 \\\\
 \\
@@ -14232,7 +14232,7 @@ Oct.Code.Common.Expected=예상
 \\	Oct.Code.Common.Everything=Everything
 \\
 \\\\
-Oct.Code.Common.Everything=\\untranslated
+Oct.Code.Common.Everything=모두
 
 \\\\
 \\
@@ -14731,14 +14731,14 @@ Oct.Code.Common.Ability={ability} 능력
 \\	Oct.Code.Common.Rules.Type={type} Rules
 \\
 \\\\
-Oct.Code.Common.Rules.Type=\\untranslated
+Oct.Code.Common.Rules.Type={type} 규칙
 
 \\\\
 \\
 \\	Oct.Code.Common.Rules=Rules
 \\
 \\\\
-Oct.Code.Common.Rules=\\untranslated
+Oct.Code.Common.Rules=규칙
 
 \\\\
 \\
@@ -15629,7 +15629,7 @@ Oct.Code.FoodAndDrink.Header=음식과 음료
 \\	Oct.Code.FoodAndDrink.Override=Override
 \\
 \\\\
-Oct.Code.FoodAndDrink.Override=\\untranslated
+Oct.Code.FoodAndDrink.Override=우선 적용
 
 \\\\
 \\
@@ -16000,7 +16000,7 @@ Oct.Code.History.Room.Changed={fromName}이(가) {toName}으(로) 바뀌었습�
 \\	Oct.Code.History.Status.Applied={character} is {status}
 \\
 \\\\
-Oct.Code.History.Status.Applied={character}이(가) {status}
+Oct.Code.History.Status.Applied={character}은(는) {status}
 
 \\\\
 \\
@@ -16156,7 +16156,7 @@ Oct.Code.Information.AcceptedPeace.Details.ToVerb.Third=받아들였습니다({s
 \\	Oct.Code.Information.Alignment.Compatibility=Is {alignment}
 \\
 \\\\
-Oct.Code.Information.Alignment.Compatibility=: {alignment}
+Oct.Code.Information.Alignment.Compatibility={alignment}
 
 \\\\
 \\
@@ -16426,7 +16426,7 @@ Oct.Code.Information.Belonging.LostValue={owners} {belonging}의 가치가 떨�
 \\	Oct.Code.Information.Belonging.Claimed.Advanced={to.conjugate(I,you,{to})} claimed {belonging}
 \\
 \\\\
-Oct.Code.Information.Belonging.Claimed.Advanced=\\untranslated
+Oct.Code.Information.Belonging.Claimed.Advanced={to.conjugate(나,당신,{to})}은(는) {belonging}을(를) 받았습니다
 
 \\\\
 \\
@@ -19103,7 +19103,7 @@ Oct.Code.Information.Opinion={characterVerb}: {subject}
 \\	Oct.Code.Information.ParticipatedInRaid.Details= in a raid of {kingdom.con(our kingdom,your kingdom,{kingdom})}
 \\
 \\\\
-Oct.Code.Information.ParticipatedInRaid.Details=\\untranslated
+Oct.Code.Information.ParticipatedInRaid.Details= {kingdom} 습격 중
 
 \\\\
 \\
@@ -20177,21 +20177,21 @@ Oct.Code.Items.Verbs.Cooked=요리함
 \\	Oct.Code.Items.Common.Claim.Auto=Auto Claim
 \\
 \\\\
-Oct.Code.Items.Common.Claim.Auto=\\untranslated
+Oct.Code.Items.Common.Claim.Auto=자동 획득
 
 \\\\
 \\
 \\	Oct.Code.Items.Common.Junk.Auto=Auto Junk
 \\
 \\\\
-Oct.Code.Items.Common.Junk.Auto=\\untranslated
+Oct.Code.Items.Common.Junk.Auto=자동 폐기
 
 \\\\
 \\
 \\	Oct.Code.Items.Common.Salvage.Auto=Auto Salvage
 \\
 \\\\
-Oct.Code.Items.Common.Salvage.Auto=\\untranslated
+Oct.Code.Items.Common.Salvage.Auto=자동 재활용
 
 \\\\
 \\
@@ -20205,14 +20205,14 @@ Oct.Code.Items.BaseEsteem=기본 존경심
 \\	Oct.Code.Items.Claimable=Claimable
 \\
 \\\\
-Oct.Code.Items.Claimable=\\untranslated
+Oct.Code.Items.Claimable=획득 가능
 
 \\\\
 \\
 \\	Oct.Code.Items.Claimable.Mode=Claimable Mode
 \\
 \\\\
-Oct.Code.Items.Claimable.Mode=\\untranslated
+Oct.Code.Items.Claimable.Mode=획득 가능 모드
 
 \\\\
 \\
@@ -20296,7 +20296,7 @@ Oct.Code.Items.Common.Rarity=희귀도
 \\	Oct.Code.Items.Common.SalvageMode=Salvage Mode
 \\
 \\\\
-Oct.Code.Items.Common.SalvageMode=\\untranslated
+Oct.Code.Items.Common.SalvageMode=재활용 모드
 
 \\\\
 \\
@@ -20795,7 +20795,7 @@ Oct.Code.Land=땅
 \\	Oct.Code.Language.Name=English
 \\
 \\\\
-Oct.Code.Language.Name=English
+Oct.Code.Language.Name=한국어
 
 \\\\
 \\
@@ -22185,7 +22185,7 @@ Oct.Code.Props.Common.Open=열기
 \\	Oct.Code.Props.Common.PrivatelyOwned=Privately Owned
 \\
 \\\\
-Oct.Code.Props.Common.PrivatelyOwned=개인적으로 소유함
+Oct.Code.Props.Common.PrivatelyOwned=개인 소유함
 
 \\\\
 \\
@@ -22892,21 +22892,21 @@ Oct.Code.Rooms.InBuilding=건물 안
 \\	Oct.Code.Rule.Complex=Complex
 \\
 \\\\
-Oct.Code.Rule.Complex=\\untranslated
+Oct.Code.Rule.Complex=복잡함
 
 \\\\
 \\
 \\	Oct.Code.Rule.Hours.From=From
 \\
 \\\\
-Oct.Code.Rule.Hours.From=시작:
+Oct.Code.Rule.Hours.From=시작
 
 \\\\
 \\
 \\	Oct.Code.Rule.Hours.To=To
 \\
 \\\\
-Oct.Code.Rule.Hours.To=끝:
+Oct.Code.Rule.Hours.To=끝
 
 \\\\
 \\
@@ -22920,105 +22920,105 @@ Oct.Code.Rules.Timeframe={fromHour}에서 {toHour}까지
 \\	Oct.Code.Rules.Quantity=Qty {comparison} {count}
 \\
 \\\\
-Oct.Code.Rules.Quantity=\\untranslated
+Oct.Code.Rules.Quantity=수량 {comparison} {count}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Value=Value {comparison} {value}
 \\
 \\\\
-Oct.Code.Rules.Value=\\untranslated
+Oct.Code.Rules.Value=가치 {comparison} {value}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Durability=Durability {comparison} {durability}
 \\
 \\\\
-Oct.Code.Rules.Durability=\\untranslated
+Oct.Code.Rules.Durability=내구도 {comparison} {durability}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Quality=Quality {comparison} {durability}
 \\
 \\\\
-Oct.Code.Rules.Quality=\\untranslated
+Oct.Code.Rules.Quality=품질 {comparison} {durability}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Rarity=Rarity {comparison} {rarity}
 \\
 \\\\
-Oct.Code.Rules.Rarity=\\untranslated
+Oct.Code.Rules.Rarity=희귀도 {comparison} {rarity}
 
 \\\\
 \\
 \\	Oct.Code.Rules.BuffPoints=Buff Points {comparison} {points}
 \\
 \\\\
-Oct.Code.Rules.BuffPoints=\\untranslated
+Oct.Code.Rules.BuffPoints=강화 효과 포인트 {comparison} {points}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Is=Is
 \\
 \\\\
-Oct.Code.Rules.Is=\\untranslated
+Oct.Code.Rules.Is=있음
 
 \\\\
 \\
 \\	Oct.Code.Rules.Is.Type=Is {type}
 \\
 \\\\
-Oct.Code.Rules.Is.Type=\\untranslated
+Oct.Code.Rules.Is.Type={type}
 
 \\\\
 \\
 \\	Oct.Code.Rules.BookSet.Spare.Keep=Keep
 \\
 \\\\
-Oct.Code.Rules.BookSet.Spare.Keep=\\untranslated
+Oct.Code.Rules.BookSet.Spare.Keep=유지
 
 \\\\
 \\
 \\	Oct.Code.Rules.BookSet.Spare=Is Spare Book Set (Keep {count})
 \\
 \\\\
-Oct.Code.Rules.BookSet.Spare=\\untranslated
+Oct.Code.Rules.BookSet.Spare=예비 책 세트임 ({count} 유지)
 
 \\\\
 \\
 \\	Oct.Code.Rules.Ambition=Prestige {comparison} {percent}% of Ambition
 \\
 \\\\
-Oct.Code.Rules.Ambition=\\untranslated
+Oct.Code.Rules.Ambition=명망 {comparison} 야심의 {percent}%
 
 \\\\
 \\
 \\	Oct.Code.Rules.Lodging=Prestige {comparison} {percent}% of Lodging
 \\
 \\\\
-Oct.Code.Rules.Lodging=\\untranslated
+Oct.Code.Rules.Lodging=명망 {comparison} 숙소의 {percent}%
 
 \\\\
 \\
 \\	Oct.Code.Rules.Prestige=Prestige {comparison} {prestige}
 \\
 \\\\
-Oct.Code.Rules.Prestige=\\untranslated
+Oct.Code.Rules.Prestige=명망 {comparison} {prestige}
 
 \\\\
 \\
 \\	Oct.Code.Rules.SatisfiesWant.Limit=Limit
 \\
 \\\\
-Oct.Code.Rules.SatisfiesWant.Limit=\\untranslated
+Oct.Code.Rules.SatisfiesWant.Limit=한도
 
 \\\\
 \\
 \\	Oct.Code.Rules.SatisfiesWant=Satisfies a Want ({limit})
 \\
 \\\\
-Oct.Code.Rules.SatisfiesWant=\\untranslated
+Oct.Code.Rules.SatisfiesWant=요구 충족({limit})
 
 \\\\
 \\
@@ -32872,7 +32872,7 @@ Oct.Items.Categories.Seeds.name=씨앗
 \\	Oct.Items.Categories.Food.Vegetarian.name=Vegetarian
 \\
 \\\\
-Oct.Items.Categories.Food.Vegetarian.name=\\untranslated
+Oct.Items.Categories.Food.Vegetarian.name=채식주의자
 
 \\\\
 \\
@@ -33931,14 +33931,14 @@ Oct.Items.PropCrate.pluralName=소품 상자
 \\	Oct.Items.PropCrate.nameFormat={type} Crate
 \\
 \\\\
-Oct.Items.PropCrate.nameFormat=\\untranslated
+Oct.Items.PropCrate.nameFormat={type} 보관함
 
 \\\\
 \\
 \\	Oct.Items.PropCrate.BookSet.nameFormat={type}
 \\
 \\\\
-Oct.Items.PropCrate.BookSet.nameFormat=\\untranslated
+Oct.Items.PropCrate.BookSet.nameFormat={type}
 
 \\\\
 \\
@@ -62068,280 +62068,280 @@ Oct.Rooms.Work.name=작업장
 \\	Oct.Rules.All.name=All of
 \\
 \\\\
-Oct.Rules.All.name=\\untranslated
+Oct.Rules.All.name=모두
 
 \\\\
 \\
 \\	Oct.Rules.All.tooltip=True when all child rules are True (False when Empty).
 \\
 \\\\
-Oct.Rules.All.tooltip=\\untranslated
+Oct.Rules.All.tooltip=모든 아이 규칙이 유효일 때 유효입니다(비어 있을 때는 무효입니다).
 
 \\\\
 \\
 \\	Oct.Rules.Any.name=Any of
 \\
 \\\\
-Oct.Rules.Any.name=\\untranslated
+Oct.Rules.Any.name=일부
 
 \\\\
 \\
 \\	Oct.Rules.Any.tooltip=True when any child rule is True (False when empty).
 \\
 \\\\
-Oct.Rules.Any.tooltip=\\untranslated
+Oct.Rules.Any.tooltip=유효인 아이 규칙이 있을 때 유효입니다(비어 있을 때는 무효입니다).
 
 \\\\
 \\
 \\	Oct.Rules.BuffPoints.name=Buff Pts
 \\
 \\\\
-Oct.Rules.BuffPoints.name=\\untranslated
+Oct.Rules.BuffPoints.name=강화 효과 포인트
 
 \\\\
 \\
 \\	Oct.Rules.BuffPoints.tooltip=True when the sum of +'s on an Item meets the criteria.
 \\
 \\\\
-Oct.Rules.BuffPoints.tooltip=\\untranslated
+Oct.Rules.BuffPoints.tooltip=아이템의 + 합계가 조건을 충족할 때 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.Durability.name=Durability
 \\
 \\\\
-Oct.Rules.Durability.name=\\untranslated
+Oct.Rules.Durability.name=내구도
 
 \\\\
 \\
 \\	Oct.Rules.Durability.tooltip=True when Item Durability meets the criteria.
 \\
 \\\\
-Oct.Rules.Durability.tooltip=\\untranslated
+Oct.Rules.Durability.tooltip=아이템 내구도가 조건을 충족할 때 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.DuringFeast.name=During a Feast
 \\
 \\\\
-Oct.Rules.DuringFeast.name=\\untranslated
+Oct.Rules.DuringFeast.name=연회 중
 
 \\\\
 \\
 \\	Oct.Rules.DuringFeast.tooltip=True during a Feast.
 \\
 \\\\
-Oct.Rules.DuringFeast.tooltip=\\untranslated
+Oct.Rules.DuringFeast.tooltip=연회 중 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.DuringWedding.name=During a Wedding
 \\
 \\\\
-Oct.Rules.DuringWedding.name=\\untranslated
+Oct.Rules.DuringWedding.name=결혼 중
 
 \\\\
 \\
 \\	Oct.Rules.DuringWedding.tooltip=True during a Wedding.
 \\
 \\\\
-Oct.Rules.DuringWedding.tooltip=\\untranslated
+Oct.Rules.DuringWedding.tooltip=결혼 중 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.IsClaimable.name=Is Claimable
 \\
 \\\\
-Oct.Rules.IsClaimable.name=\\untranslated
+Oct.Rules.IsClaimable.name=획득 가능
 
 \\\\
 \\
 \\	Oct.Rules.IsClaimable.tooltip=True when the Item is Claimable.
 \\
 \\\\
-Oct.Rules.IsClaimable.tooltip=\\untranslated
+Oct.Rules.IsClaimable.tooltip=아이템을 획득 가능할 때 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.IsJunk.name=Is Junk
 \\
 \\\\
-Oct.Rules.IsJunk.name=\\untranslated
+Oct.Rules.IsJunk.name=쓰레기임
 
 \\\\
 \\
 \\	Oct.Rules.IsJunk.tooltip=True when the Item is Junk.
 \\
 \\\\
-Oct.Rules.IsJunk.tooltip=\\untranslated
+Oct.Rules.IsJunk.tooltip=아이템이 쓰레기일 때 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.IsSpareBookSet.name=Is Spare Book Set
 \\
 \\\\
-Oct.Rules.IsSpareBookSet.name=\\untranslated
+Oct.Rules.IsSpareBookSet.name=예비 책 세트
 
 \\\\
 \\
 \\	Oct.Rules.IsSpareBookSet.tooltip=True when there are extra Sets of this type (Placed or Crated, not Junk).
 \\
 \\\\
-Oct.Rules.IsSpareBookSet.tooltip=\\untranslated
+Oct.Rules.IsSpareBookSet.tooltip=이 유형의 추가 세트가 있을 때 유효입니다(배치되거나 보관됨, 쓰레기는 제외).
 
 \\\\
 \\
 \\	Oct.Rules.ItemIs.name=Is
 \\
 \\\\
-Oct.Rules.ItemIs.name=\\untranslated
+Oct.Rules.ItemIs.name=있음
 
 \\\\
 \\
 \\	Oct.Rules.ItemIs.tooltip=True when the Item Type is in the list.
 \\
 \\\\
-Oct.Rules.ItemIs.tooltip=\\untranslated
+Oct.Rules.ItemIs.tooltip=아이템 유형이 목록에 있을 때 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.NoneRule.name=None of
 \\
 \\\\
-Oct.Rules.NoneRule.name=\\untranslated
+Oct.Rules.NoneRule.name=없음
 
 \\\\
 \\
 \\	Oct.Rules.NoneRule.tooltip=True when no child rule is True (True when empty).
 \\
 \\\\
-Oct.Rules.NoneRule.tooltip=\\untranslated
+Oct.Rules.NoneRule.tooltip=유효인 아이 규칙이 없을 때 유효입니다(비어 있을 때는 무효입니다).
 
 \\\\
 \\
 \\	Oct.Rules.Prestige.name=Prestige
 \\
 \\\\
-Oct.Rules.Prestige.name=\\untranslated
+Oct.Rules.Prestige.name=명망
 
 \\\\
 \\
 \\	Oct.Rules.Prestige.tooltip=True when Item's Prestige meets the criteria
 \\
 \\\\
-Oct.Rules.Prestige.tooltip=\\untranslated
+Oct.Rules.Prestige.tooltip=아이템의 명망이 조건을 충족할 때 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfAmbition.name=Prestige as Percent of Ambition
 \\
 \\\\
-Oct.Rules.PrestigePercentOfAmbition.name=\\untranslated
+Oct.Rules.PrestigePercentOfAmbition.name=야심 비율 명망
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfAmbition.tooltip=True when the Item's Prestige meets the chosen condition compared to the Mortal's Ambition.
 \\
 \\\\
-Oct.Rules.PrestigePercentOfAmbition.tooltip=\\untranslated
+Oct.Rules.PrestigePercentOfAmbition.tooltip=사람의 야심과 비교해, 아이템의 명망이 선택된 조건을 충족할 때 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfLodging.name=Prestige as Percent of Lodging
 \\
 \\\\
-Oct.Rules.PrestigePercentOfLodging.name=\\untranslated
+Oct.Rules.PrestigePercentOfLodging.name=숙소 비율 명망
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfLodging.tooltip=True when the Item's Prestige meets the chosen condition when compared to the Prestige of a Mortal's Lodging.<br><br>A Prestige as Percent of Lodging of "<= 50%" means that an Item must be less in Prestige than half that of their assigned Lodging.<br><br>Given that there are 8 equipment slots, that ensures that their Lodging will make up at least 20% of their Prestige, satisfying their Lodging Need.
 \\
 \\\\
-Oct.Rules.PrestigePercentOfLodging.tooltip=\\untranslated
+Oct.Rules.PrestigePercentOfLodging.tooltip="사람의 숙소 명망과 비교했을 때, 아이템의 명망이 선택한 조건을 충족하면 유효입니다.<br><br>숙소 비율 명망이 "<= 50%"이면 아이템의 명망이 배정된 숙소의 절반 미만이어야 한다는 뜻입니다.<br><br>장비 슬롯이 8개라는 점을 감안하면, 숙소가 명망의 최소 20%를 차지해야 숙소 요구를 충족할 수 있습니다."
 
 \\\\
 \\
 \\	Oct.Rules.Quality.name=Quality
 \\
 \\\\
-Oct.Rules.Quality.name=\\untranslated
+Oct.Rules.Quality.name=품질
 
 \\\\
 \\
 \\	Oct.Rules.Quality.tooltip=True when Item Quality meets the criteria.
 \\
 \\\\
-Oct.Rules.Quality.tooltip=\\untranslated
+Oct.Rules.Quality.tooltip=아이템 품질이 조건을 충족할 때 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.Quantity.name=Qty
 \\
 \\\\
-Oct.Rules.Quantity.name=\\untranslated
+Oct.Rules.Quantity.name=수량
 
 \\\\
 \\
 \\	Oct.Rules.Quantity.tooltip=True when Qty of the Item meets the criteria.
 \\
 \\\\
-Oct.Rules.Quantity.tooltip=\\untranslated
+Oct.Rules.Quantity.tooltip=아이템 수량이 조건을 충족할 때 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.Rarity.name=Rarity
 \\
 \\\\
-Oct.Rules.Rarity.name=\\untranslated
+Oct.Rules.Rarity.name=희귀도
 
 \\\\
 \\
 \\	Oct.Rules.Rarity.tooltip=True when Item Rarity meets the criteria.
 \\
 \\\\
-Oct.Rules.Rarity.tooltip=\\untranslated
+Oct.Rules.Rarity.tooltip=아이템 희귀도가 조건을 충족할 때 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.SatisfiesWant.name=Satisfies a Want
 \\
 \\\\
-Oct.Rules.SatisfiesWant.name=\\untranslated
+Oct.Rules.SatisfiesWant.name=요구 충족
 
 \\\\
 \\
 \\	Oct.Rules.SatisfiesWant.tooltip=True when the Item's Prestige satisfies a Want but doesn't exceed it by more than limit.
 \\
 \\\\
-Oct.Rules.SatisfiesWant.tooltip=\\untranslated
+Oct.Rules.SatisfiesWant.tooltip=아이템의 명망이 요구를 충족하지만 한도를 초과하지 않을 때 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.Timeframe.name=Timeframe
 \\
 \\\\
-Oct.Rules.Timeframe.name=\\untranslated
+Oct.Rules.Timeframe.name=타임 프레임
 
 \\\\
 \\
 \\	Oct.Rules.Timeframe.tooltip=True between the hours of From and To.
 \\
 \\\\
-Oct.Rules.Timeframe.tooltip=\\untranslated
+Oct.Rules.Timeframe.tooltip=시작과 끝 시간 사이에 유효입니다.
 
 \\\\
 \\
 \\	Oct.Rules.Value.name=Value
 \\
 \\\\
-Oct.Rules.Value.name=\\untranslated
+Oct.Rules.Value.name=가치
 
 \\\\
 \\
 \\	Oct.Rules.Value.tooltip=True when Item Value meets the criteria.
 \\
 \\\\
-Oct.Rules.Value.tooltip=\\untranslated
+Oct.Rules.Value.tooltip=아이템 가치가 조건을 충족할 때 유효입니다.
 
 \\\\
 \\
@@ -63617,7 +63617,7 @@ Oct.Settings.Global.Controls.Camera.Move.Right.name=오른쪽으로 이동
 \\	Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=Edge Scroll
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=엣지 두루마리
 
 \\\\
 \\
@@ -63638,14 +63638,14 @@ Oct.Settings.Global.Controls.Camera.Rotate.defaultValue=[마우스 중간 버튼
 \\	Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=Invert Pitch
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=피치 반전
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=Invert Pitch (Controlled)
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=피치 반전(제어됨)
 
 \\\\
 \\
