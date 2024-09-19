@@ -14316,7 +14316,7 @@ Oct.Code.Common.Maintain=유지
 \\	Oct.Code.Common.Mortal=Mortal
 \\
 \\\\
-Oct.Code.Common.Mortal=\\untranslated
+Oct.Code.Common.Mortal=사람
 
 \\\\
 \\
@@ -23123,14 +23123,14 @@ Oct.Code.Selection.Multiselect.Header=선택
 \\	Oct.Code.Selection.Cycle.Target=[R Click] Target
 \\
 \\\\
-Oct.Code.Selection.Cycle.Target=\\untranslated
+Oct.Code.Selection.Cycle.Target=[오른쪽 클릭] 대상 지정
 
 \\\\
 \\
 \\	Oct.Code.Selection.Cycle.Selection=[L Click] Select
 \\
 \\\\
-Oct.Code.Selection.Cycle.Selection=\\untranslated
+Oct.Code.Selection.Cycle.Selection=[왼쪽 클릭] 선택
 
 \\\\
 \\
@@ -63491,7 +63491,7 @@ Oct.Settings.Global.Graphics.PortraitCount.name=초상화 카운트
 \\	Oct.Settings.Global.Graphics.PortraitCount.tooltip=The Number of Portraits at the top of the Screen.
 \\
 \\\\
-Oct.Settings.Global.Graphics.PortraitCount.tooltip=\\untranslated
+Oct.Settings.Global.Graphics.PortraitCount.tooltip=화면 상단의 초상화 수입니다.
 
 \\\\
 \\
@@ -63526,7 +63526,7 @@ Oct.Settings.Global.Interface.CloseTradeWindow.name=거래 후 거래 창 닫기
 \\	Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=When enabled, the Trade Window is Closed after you make a deal.
 \\
 \\\\
-Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=\\untranslated
+Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=활성화하면 거래 후 거래 창이 닫힙니다.
 
 \\\\
 \\
@@ -63540,42 +63540,42 @@ Oct.Settings.Global.Interface.BelongingsPortraitResort.name=소지품 초상화
 \\	Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=When enabled, Portraits can Re-sort from Prestige changes while you are on the Belongings Screen.
 \\
 \\\\
-Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=\\untranslated
+Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=활성화하면 소지품 화면에서 명망 변경에 따라 초상화를 다시 정렬할 수 있습니다.
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.name=Untuck Tools When
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.name=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.name=도구 펼치기:
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.choices.1=Any Hovered
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.choices.1=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.choices.1=한꺼번에
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.choices.2=When Hovered
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.choices.2=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.choices.2=개별
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.choices.3=Always
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.choices.3=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.choices.3=항상
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.tooltip=Controls when the Tabs on the Toolbar are untucked.
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.tooltip=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.tooltip=도구 바의 탭을 언제 펼칠지 지정합니다.
 
 \\\\
 \\
