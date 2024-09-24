@@ -12531,7 +12531,7 @@ Oct.Code.Command.Blocked=차단됨
 \\	Oct.Code.Command.Feed.Blocked.NoFoodAvailable=No Allowed Food Available
 \\
 \\\\
-Oct.Code.Command.Feed.Blocked.NoFoodAvailable=\\untranslated
+Oct.Code.Command.Feed.Blocked.NoFoodAvailable=허용되는 음식 없음\\autotranslated
 
 \\\\
 \\
@@ -22605,21 +22605,21 @@ Oct.Code.Report.Header=문제 신고
 \\	Oct.Code.Report.Summary=Summary
 \\
 \\\\
-Oct.Code.Report.Summary=\\untranslated
+Oct.Code.Report.Summary=요약\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Report.Contact=Contact Info
 \\
 \\\\
-Oct.Code.Report.Contact=\\untranslated
+Oct.Code.Report.Contact=연락처 정보\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Report.Contact.Tooltip=How do we get in touch?\n\nEmail, Discord, Steam ID work - please specify the type if it isn't clear.\n\nAutomatically saved for your convenience.
 \\
 \\\\
-Oct.Code.Report.Contact.Tooltip=\\untranslated
+Oct.Code.Report.Contact.Tooltip=어떻게 연락하나요?\n\n이메일, 디스코드, Steam ID 작동 - 확실하지 않은 경우 유형을 지정해 주세요.\n\n귀하의 편의를 위해 자동으로 저장됩니다.\\autotranslated
 
 \\\\
 \\
