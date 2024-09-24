@@ -12528,6 +12528,13 @@ Oct.Code.Command.Blocked=차단됨
 
 \\\\
 \\
+\\	Oct.Code.Command.Feed.Blocked.NoFoodAvailable=No Allowed Food Available
+\\
+\\\\
+Oct.Code.Command.Feed.Blocked.NoFoodAvailable=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Command.Blocked.OrderedAway=Ordered Away
 \\
 \\\\
@@ -17216,7 +17223,7 @@ Oct.Code.Information.Freed.SubjectWas.Third=풀려났습니다({subject})
 \\
 \\	optional; replaces Oct.Code.Information.FeelBetter; {speaker} and {listener} available
 \\
-\\	Oct.Code.Information.FeelBetter.Advanced={subject.con(I,you,{subject})} feels better about {ruler.con(me,you,{ruler})}
+\\	Oct.Code.Information.FeelBetter.Advanced={subject.con(I feel,you feel,{subject} feels)} better about {ruler.con(me,you,{ruler})}
 \\
 \\\\
 Oct.Code.Information.FeelBetter.Advanced={subject.con(나,당신,{subject})}의 {ruler.con(나,당신,{ruler})}에 대한 감정이 나아졌습니다.
@@ -22595,10 +22602,24 @@ Oct.Code.Report.Header=문제 신고
 
 \\\\
 \\
-\\	Oct.Code.Report.Subject=Subject
+\\	Oct.Code.Report.Summary=Summary
 \\
 \\\\
-Oct.Code.Report.Subject=제목
+Oct.Code.Report.Summary=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Report.Contact=Contact Info
+\\
+\\\\
+Oct.Code.Report.Contact=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Report.Contact.Tooltip=How do we get in touch?\n\nEmail, Discord, Steam ID work - please specify the type if it isn't clear.\n\nAutomatically saved for your convenience.
+\\
+\\\\
+Oct.Code.Report.Contact.Tooltip=\\untranslated
 
 \\\\
 \\
@@ -29440,28 +29461,28 @@ Oct.Grammar.Needs.Comfort.Grammar.Subceeded.results+=^<Oct.Character.Needs.Comfo
 
 \\\\
 \\
-\\	Oct.Grammar.Needs.Lodging.Grammar.Exceeded.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> extremely satisfied with <Oct.Character.Needs.Grammar.PawnMyYourTheir> lodging.
+\\	Oct.Grammar.Needs.Lodging.Grammar.Exceeded.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> extremely satisfied with <Oct.Character.Needs.Grammar.PawnMyYourTheir> Lodging.
 \\
 \\\\
 Oct.Grammar.Needs.Lodging.Grammar.Exceeded.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas>은(는) <Oct.Character.Needs.Grammar.PawnMyYourTheir> 숙소에 극도로 만족합니다.
 
 \\\\
 \\
-\\	Oct.Grammar.Needs.Lodging.Grammar.Met.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> fine with <Oct.Character.Needs.Grammar.PawnMyYourTheir> lodging.
+\\	Oct.Grammar.Needs.Lodging.Grammar.Met.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> fine with <Oct.Character.Needs.Grammar.PawnMyYourTheir> Lodging.
 \\
 \\\\
 Oct.Grammar.Needs.Lodging.Grammar.Met.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas>은(는) <Oct.Character.Needs.Grammar.PawnMyYourTheir> 숙소에 그런대로 만족합니다.
 
 \\\\
 \\
-\\	Oct.Grammar.Needs.Lodging.Grammar.Unmet.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> unhappy with <Oct.Character.Needs.Grammar.PawnMyYourTheir> lodging.
+\\	Oct.Grammar.Needs.Lodging.Grammar.Unmet.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> unhappy with <Oct.Character.Needs.Grammar.PawnMyYourTheir> Lodging.
 \\
 \\\\
 Oct.Grammar.Needs.Lodging.Grammar.Unmet.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas>은(는) <Oct.Character.Needs.Grammar.PawnMyYourTheir> 숙소에 만족하지 못합니다.
 
 \\\\
 \\
-\\	Oct.Grammar.Needs.Lodging.Grammar.Subceeded.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> very unsatisfied with <Oct.Character.Needs.Grammar.PawnMyYourTheir> lodging.
+\\	Oct.Grammar.Needs.Lodging.Grammar.Subceeded.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> very unsatisfied with <Oct.Character.Needs.Grammar.PawnMyYourTheir> Lodging.
 \\
 \\\\
 Oct.Grammar.Needs.Lodging.Grammar.Subceeded.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas>은(는) <Oct.Character.Needs.Grammar.PawnMyYourTheir> 숙소에 매우 만족하지 못합니다.
