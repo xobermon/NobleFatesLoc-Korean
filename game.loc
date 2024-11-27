@@ -6221,6 +6221,13 @@ Oct.Characters.Humanoids.NuOrc.Brows04.name=남성 4
 
 \\\\
 \\
+\\	Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=Male None
+\\
+\\\\
+Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Characters.Humanoids.NuOrc.Eye01.name=Male 1
 \\
 \\\\
@@ -6372,6 +6379,13 @@ Oct.Characters.Humanoids.NuOrc.Mouth-Fem02.name=여성 2
 \\
 \\\\
 Oct.Characters.Humanoids.NuOrc.Mouth-Fem03.name=여성 3
+
+\\\\
+\\
+\\	Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=Female None
+\\
+\\\\
+Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=\\untranslated
 
 \\\\
 \\
@@ -7502,6 +7516,34 @@ Oct.Code.Abilities.ChooseTarget={ability}의 대상 선택
 
 \\\\
 \\
+\\	Oct.Code.Adventure.Abandon.Header=Abandon?
+\\
+\\\\
+Oct.Code.Adventure.Abandon.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Abandon.Details=Abandon your party?
+\\
+\\\\
+Oct.Code.Adventure.Abandon.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Retreat.Header=Retreat?
+\\
+\\\\
+Oct.Code.Adventure.Retreat.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Reatreat.Details=Abandon the helpless and head home?
+\\
+\\\\
+Oct.Code.Adventure.Reatreat.Details=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Adventure.Captions.Request=Request
 \\
 \\\\
@@ -7569,34 +7611,6 @@ Oct.Code.Adventure.Captions.Failed=실패함
 \\
 \\\\
 Oct.Code.Adventure.Captions.Rewards=보상!
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Abandon.Header=Abandon?
-\\
-\\\\
-Oct.Code.Adventure.Abandon.Header=버리시겠습니까?
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Abandon.Details=Abandon your party?
-\\
-\\\\
-Oct.Code.Adventure.Abandon.Details=파티를 버리시겠습니까?
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Retreat.Header=Retreat?
-\\
-\\\\
-Oct.Code.Adventure.Retreat.Header=후퇴하시겠습니까?
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Reatreat.Details=Abandon the helpless and head home?
-\\
-\\\\
-Oct.Code.Adventure.Reatreat.Details=무력한 이들을 버리고 고향으로 돌아가시겠습니까?
 
 \\\\
 \\
@@ -8531,20 +8545,6 @@ Oct.Code.Character.Age.Adult.Old=노년
 
 \\\\
 \\
-\\	Oct.Code.Characters.SelectAll=Select All
-\\
-\\\\
-Oct.Code.Characters.SelectAll=모두 선택
-
-\\\\
-\\
-\\	Oct.Code.Characters.Leave=Leave
-\\
-\\\\
-Oct.Code.Characters.Leave=나가기
-
-\\\\
-\\
 \\	Oct.Code.Characters.HealRate.Treated=Treated
 \\
 \\\\
@@ -9294,6 +9294,20 @@ Oct.Code.Characters.StatModifiers.Inspired=감화
 
 \\\\
 \\
+\\	Oct.Code.Characters.SelectAll=Select All
+\\
+\\\\
+Oct.Code.Characters.SelectAll=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Leave=Leave
+\\
+\\\\
+Oct.Code.Characters.Leave=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Characters.Mission.Abandon=Abandon
 \\
 \\\\
@@ -9340,6 +9354,13 @@ Oct.Code.Characters.Properties.Growth={items} 성장
 \\
 \\\\
 Oct.Code.Characters.Commands.Collect={items} 수집
+
+\\\\
+\\
+\\	Oct.Code.Characters.Status.GettingHelp=Getting Help
+\\
+\\\\
+Oct.Code.Characters.Status.GettingHelp=\\untranslated
 
 \\\\
 \\
@@ -12077,13 +12098,6 @@ Oct.Code.Characters.FoodBudget=식량 예산
 \\
 \\\\
 Oct.Code.Characters.Trade=거래
-
-\\\\
-\\
-\\	Oct.Code.Characters.Status.GettingHelp=Getting Help
-\\
-\\\\
-Oct.Code.Characters.Status.GettingHelp=도움 받기
 
 \\\\
 \\
@@ -15528,13 +15542,6 @@ Oct.Code.FixedValueCharacterWant.Text={character}이(가) {type}을(를) 원합�
 
 \\\\
 \\
-\\	Oct.Code.Foliage.Canopy=Canopy
-\\
-\\\\
-Oct.Code.Foliage.Canopy=덮개
-
-\\\\
-\\
 \\	Oct.Code.Foliage.Age=Age
 \\
 \\\\
@@ -15560,6 +15567,13 @@ Oct.Code.Foliage.Water=물
 \\
 \\\\
 Oct.Code.Foliage.Burned=불탐
+
+\\\\
+\\
+\\	Oct.Code.Foliage.Canopy=Canopy
+\\
+\\\\
+Oct.Code.Foliage.Canopy=\\untranslated
 
 \\\\
 \\
@@ -23953,10 +23967,31 @@ Oct.Code.Tools.Stockpiles=비축물
 
 \\\\
 \\
-\\	Oct.Code.Tools.Beliefs=Beliefs
+\\	Oct.Code.Tools.Belongings=Belongings
 \\
 \\\\
-Oct.Code.Tools.Beliefs=믿음
+Oct.Code.Tools.Belongings=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Tools.Schedule=Schedule
+\\
+\\\\
+Oct.Code.Tools.Schedule=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Tools.Jobs=Jobs
+\\
+\\\\
+Oct.Code.Tools.Jobs=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Tools.Food=Food
+\\
+\\\\
+Oct.Code.Tools.Food=\\untranslated
 
 \\\\
 \\
@@ -23967,10 +24002,17 @@ Oct.Code.Tools.World=세계
 
 \\\\
 \\
-\\	Oct.Code.Tools.Food=Food
+\\	Oct.Code.Tools.Petitions=Petitions
 \\
 \\\\
-Oct.Code.Tools.Food=음식
+Oct.Code.Tools.Petitions=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Tools.Beliefs=Beliefs
+\\
+\\\\
+Oct.Code.Tools.Beliefs=\\untranslated
 
 \\\\
 \\
@@ -23985,41 +24027,6 @@ Oct.Code.Tools.Stockpiles.Add=추가
 \\
 \\\\
 Oct.Code.Tools.Stockpiles.Remove=제거
-
-\\\\
-\\
-\\	Oct.Code.Tools.Belongings=Belongings
-\\
-\\\\
-Oct.Code.Tools.Belongings=소지품
-
-\\\\
-\\
-\\	Oct.Code.Tools.Jobs=Jobs
-\\
-\\\\
-Oct.Code.Tools.Jobs=일
-
-\\\\
-\\
-\\	Oct.Code.Tools.Learning=Learning
-\\
-\\\\
-Oct.Code.Tools.Learning=학습
-
-\\\\
-\\
-\\	Oct.Code.Tools.Schedule=Schedule
-\\
-\\\\
-Oct.Code.Tools.Schedule=일정
-
-\\\\
-\\
-\\	Oct.Code.Tools.Petitions=Petitions
-\\
-\\\\
-Oct.Code.Tools.Petitions=청원서
 
 \\\\
 \\
@@ -24041,6 +24048,13 @@ Oct.Code.Tools.Zone.Remove=제거
 \\
 \\\\
 Oct.Code.Tools.Bulk.Multiple.Controls=[왼쪽 마우스] 길게 누르기 + 드래그: 다수
+
+\\\\
+\\
+\\	Oct.Code.Tools.Learning=Learning
+\\
+\\\\
+Oct.Code.Tools.Learning=\\untranslated
 
 \\\\
 \\
@@ -24387,73 +24401,10 @@ Oct.Code.Visibility.Stockpiles=비축물
 
 \\\\
 \\
-\\	Oct.Code.Visibility.UI=UI
+\\	Oct.Code.Visibility.Characters.AbilityTriggers=Ability Triggers
 \\
 \\\\
-Oct.Code.Visibility.UI=UI
-
-\\\\
-\\
-\\	Oct.Code.Visibility.InWorldUI=In World UI
-\\
-\\\\
-Oct.Code.Visibility.InWorldUI=인 월드 UI
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Paths=Paths
-\\
-\\\\
-Oct.Code.Visibility.Paths=길
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Items.LockedRecipes=Locked Recipes
-\\
-\\\\
-Oct.Code.Visibility.Items.LockedRecipes=잠긴 레시피
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Items.Stats=Item Stats
-\\
-\\\\
-Oct.Code.Visibility.Items.Stats=아이템 능력치
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Props.Roofs=Roofs
-\\
-\\\\
-Oct.Code.Visibility.Props.Roofs=지붕
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Props.RulerRoofs=Roofs (Ruler Mode)
-\\
-\\\\
-Oct.Code.Visibility.Props.RulerRoofs=지붕(통치자 모드)
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Props.Blueprints=Blueprints
-\\
-\\\\
-Oct.Code.Visibility.Props.Blueprints=설계도
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Props.CombatBlueprints=Blueprints (Combat)
-\\
-\\\\
-Oct.Code.Visibility.Props.CombatBlueprints=설계도(전투)
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Temperature=Temperature
-\\
-\\\\
-Oct.Code.Visibility.Temperature=온도
+Oct.Code.Visibility.Characters.AbilityTriggers=\\untranslated
 
 \\\\
 \\
@@ -24492,10 +24443,73 @@ Oct.Code.Visibility.Characters.Caps=모자
 
 \\\\
 \\
-\\	Oct.Code.Visibility.Characters.AbilityTriggers=Ability Triggers
+\\	Oct.Code.Visibility.Items.LockedRecipes=Locked Recipes
 \\
 \\\\
-Oct.Code.Visibility.Characters.AbilityTriggers=능력 발동
+Oct.Code.Visibility.Items.LockedRecipes=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Items.Stats=Item Stats
+\\
+\\\\
+Oct.Code.Visibility.Items.Stats=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Paths=Paths
+\\
+\\\\
+Oct.Code.Visibility.Paths=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Props.Roofs=Roofs
+\\
+\\\\
+Oct.Code.Visibility.Props.Roofs=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Props.RulerRoofs=Roofs (Ruler Mode)
+\\
+\\\\
+Oct.Code.Visibility.Props.RulerRoofs=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Props.Blueprints=Blueprints
+\\
+\\\\
+Oct.Code.Visibility.Props.Blueprints=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Props.CombatBlueprints=Blueprints (Combat)
+\\
+\\\\
+Oct.Code.Visibility.Props.CombatBlueprints=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Temperature=Temperature
+\\
+\\\\
+Oct.Code.Visibility.Temperature=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.UI=UI
+\\
+\\\\
+Oct.Code.Visibility.UI=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.InWorldUI=In World UI
+\\
+\\\\
+Oct.Code.Visibility.InWorldUI=\\untranslated
 
 \\\\
 \\
@@ -33051,6 +33065,27 @@ Oct.Items.Categories.Food.Drinks.Moonshine.name=문샤인
 
 \\\\
 \\
+\\	Oct.Items.Categories.Gear.Outer.Cloaks.name=Cloaks
+\\
+\\\\
+Oct.Items.Categories.Gear.Outer.Cloaks.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Categories.Gear.Outer.name=Outer
+\\
+\\\\
+Oct.Items.Categories.Gear.Outer.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Categories.Resources.Leather.name=Leather
+\\
+\\\\
+Oct.Items.Categories.Resources.Leather.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Items.Categories.Food.MealBeans.name=Meal Beans
 \\
 \\\\
@@ -33132,20 +33167,6 @@ Oct.Items.Categories.Gear.Hands.name=손
 \\
 \\\\
 Oct.Items.Categories.Gear.Feet.name=발
-
-\\\\
-\\
-\\	Oct.Items.Categories.Gear.Outer.name=Outer
-\\
-\\\\
-Oct.Items.Categories.Gear.Outer.name=외투
-
-\\\\
-\\
-\\	Oct.Items.Categories.Resources.Leather.name=Leather
-\\
-\\\\
-Oct.Items.Categories.Resources.Leather.name=가공 가죽
 
 \\\\
 \\
@@ -33436,6 +33457,34 @@ Oct.Items.Categories.Props.Other.name=기타
 
 \\\\
 \\
+\\	Oct.Items.Clothing.Cloak.Martial.name=Martial Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Martial.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Martial.pluralName=Martial Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Martial.pluralName=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Royal.name=Royal Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Royal.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Royal.pluralName=Royal Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Royal.pluralName=\\untranslated
+
+\\\\
+\\
 \\	Oct.Items.Clothing.Shoes.Cloth.name=Cloth Shoes
 \\
 \\\\
@@ -33475,6 +33524,34 @@ Oct.Items.Clothing.Leggings.Cloth.name=천 레깅스
 \\
 \\\\
 Oct.Items.Clothing.Hood.Cloth.name=천 후드
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Poor.name=Poor Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Poor.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Poor.pluralName=Poor Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Poor.pluralName=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Modest.name=Modest Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Modest.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Modest.pluralName=Modest Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Modest.pluralName=\\untranslated
 
 \\\\
 \\
@@ -34670,6 +34747,27 @@ Oct.Items.Stackable.Wine.name=와인
 
 \\\\
 \\
+\\	Oct.Items.Stackable.Skins.Hide.name=Hide
+\\
+\\\\
+Oct.Items.Stackable.Skins.Hide.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Stackable.Skins.Leather.name=Leather
+\\
+\\\\
+Oct.Items.Stackable.Skins.Leather.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Stackable.Gold.name=Gold
+\\
+\\\\
+Oct.Items.Stackable.Gold.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Items.Stackable.RawMeat.Wolf.name=Raw Wolf
 \\
 \\\\
@@ -34702,13 +34800,6 @@ Oct.Items.Stackable.Coins.name=코인
 \\
 \\\\
 Oct.Items.Stackable.Silver.name=은
-
-\\\\
-\\
-\\	Oct.Items.Stackable.Gold.name=Gold
-\\
-\\\\
-Oct.Items.Stackable.Gold.name=금
 
 \\\\
 \\
@@ -34751,20 +34842,6 @@ Oct.Items.Stackable.MealBeans.Ripe.name=익은 식사콩
 \\
 \\\\
 Oct.Items.Stackable.MealBeans.Overripe.name=과숙된 식사콩
-
-\\\\
-\\
-\\	Oct.Items.Stackable.Skins.Hide.name=Hide
-\\
-\\\\
-Oct.Items.Stackable.Skins.Hide.name=생가죽
-
-\\\\
-\\
-\\	Oct.Items.Stackable.Skins.Leather.name=Leather
-\\
-\\\\
-Oct.Items.Stackable.Skins.Leather.name=가공 가죽
 
 \\\\
 \\
@@ -60868,6 +60945,34 @@ Oct.Research.Clothing.Costumes.Veil.name=베일
 
 \\\\
 \\
+\\	Oct.Research.Clothing.Cloak.Poor.name=Poor Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Poor.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Research.Clothing.Cloak.Modest.name=Modest Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Modest.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Research.Clothing.Cloak.Martial.name=Martial Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Martial.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Research.Clothing.Cloak.Royal.name=Royal Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Royal.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Research.Clothing.Blouse.Cloth.name=Cloth Blouses
 \\
 \\\\
@@ -63222,14 +63327,14 @@ Oct.Settings.Game.Origin.PrincipleAdoption.tooltip=시작 시 시작 그룹이 �
 
 \\\\
 \\
-\\	Oct.Settings.Game.Characters.VisualExtremes.name=Visual Extremes
+\\	Oct.Settings.Game.Characters.VisualExtremes.name=Visual Goofiness
 \\
 \\\\
 Oct.Settings.Game.Characters.VisualExtremes.name=시각적 극한도
 
 \\\\
 \\
-\\	Oct.Settings.Game.Characters.VisualExtremes.tooltip=Controls the Extremes of Character Visuals.
+\\	Oct.Settings.Game.Characters.VisualExtremes.tooltip=Controls how Goofy the Character Visuals can be.
 \\
 \\\\
 Oct.Settings.Game.Characters.VisualExtremes.tooltip=캐릭터 비주얼의 극한도를 제어합니다.
