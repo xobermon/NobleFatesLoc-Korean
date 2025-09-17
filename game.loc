@@ -3,7 +3,7 @@
 \\	Ocde.Code.Command.Score.PersonalCommand.Definition=This Command belongs to this Mortal.
 \\
 \\\\
-Ocde.Code.Command.Score.PersonalCommand.Definition=\\untranslated
+Ocde.Code.Command.Score.PersonalCommand.Definition=이 명령은 이 인간에게 속한다.\\autotranslated
 
 \\\\
 \\
@@ -8527,21 +8527,21 @@ Oct.Code.Building.Type.None=없음
 \\	Oct.Code.Catapult.Fire=Fire
 \\
 \\\\
-Oct.Code.Catapult.Fire=\\untranslated
+Oct.Code.Catapult.Fire=발사
 
 \\\\
 \\
 \\	Oct.Code.Catapult.Firing=Firing {prop}
 \\
 \\\\
-Oct.Code.Catapult.Firing=\\untranslated
+Oct.Code.Catapult.Firing={prop} 발사 중
 
 \\\\
 \\
 \\	Oct.Code.Catapult.Firing.At=Firing {prop} at {target}
 \\
 \\\\
-Oct.Code.Catapult.Firing.At=\\untranslated
+Oct.Code.Catapult.Firing.At={target}에 {prop} 발사 중
 
 \\\\
 \\
@@ -8604,35 +8604,35 @@ Oct.Code.Character.Age.Adult.Old=노년
 \\	Oct.Code.Character.Preset.Overwrite=Overwrite?
 \\
 \\\\
-Oct.Code.Character.Preset.Overwrite=\\untranslated
+Oct.Code.Character.Preset.Overwrite=덮어쓸까요?\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.AlreadyExists=A Preset with this Name already Exists.<br><br>Overwrite?<br>
 \\
 \\\\
-Oct.Code.Character.Preset.AlreadyExists=\\untranslated
+Oct.Code.Character.Preset.AlreadyExists=이 이름을 가진 사전 설정이 이미 존재합니다.<br><br>덮어쓰시겠습니까?<br>\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.Apply.header=Apply Preset?
 \\
 \\\\
-Oct.Code.Character.Preset.Apply.header=\\untranslated
+Oct.Code.Character.Preset.Apply.header=사전 설정을 적용하시겠습니까?\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.Apply=The Preset will overwrite this Mortals details.<br><br>Continue?<br>
 \\
 \\\\
-Oct.Code.Character.Preset.Apply=\\untranslated
+Oct.Code.Character.Preset.Apply=사전 설정이 이 필사자의 세부 정보를 덮어씁니다.<br><br>계속하시겠습니까?<br>\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.Delete.Header=Delete Preset?
 \\
 \\\\
-Oct.Code.Character.Preset.Delete.Header=\\untranslated
+Oct.Code.Character.Preset.Delete.Header=사전 설정을 삭제하시겠습니까?\\autotranslated
 
 \\\\
 \\
@@ -9241,7 +9241,7 @@ Oct.Code.Characters.Commands.Tame=조련
 \\	Oct.Code.Characters.Commands.Evangelize=Evangelize
 \\
 \\\\
-Oct.Code.Characters.Commands.Evangelize=\\untranslated
+Oct.Code.Characters.Commands.Evangelize=전도하다\\autotranslated
 
 \\\\
 \\
@@ -9983,7 +9983,7 @@ Oct.Code.Characters.Relationship.Child=아이
 \\	Oct.Code.Characters.Instincts.Controlled=Controlled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Controlled=\\untranslated
+Oct.Code.Characters.Instincts.Controlled=제어됨
 
 \\\\
 \\
@@ -10018,28 +10018,28 @@ Oct.Code.Characters.ThirdPerson.Controls.DropAll=모두 버리기
 \\	Oct.Code.Characters.Instincts.Downed.Carried=Carried
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Carried=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Carried=운반됨\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Downed.Downed=Downed
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Downed=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Downed=쓰러짐
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Downed.Unconscious=Unconscious
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Unconscious=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Unconscious=무의식\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Downed.Tantrum=Throwing a Tantrum
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Tantrum=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Tantrum=짜증을 내다\\autotranslated
 
 \\\\
 \\
@@ -10053,56 +10053,56 @@ Oct.Code.Characters.Pain.BloodLoss=피 손실
 \\	Oct.Code.Characters.Instincts.Eat=Eat
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat=\\untranslated
+Oct.Code.Characters.Instincts.Eat=먹다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.Eating=Eating
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.Eating=\\untranslated
+Oct.Code.Characters.Instincts.Eat.Eating=식사\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.BeingFed=Being Fed
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.BeingFed=\\untranslated
+Oct.Code.Characters.Instincts.Eat.BeingFed=먹이를 먹다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.Hungry=Hungry
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.Hungry=\\untranslated
+Oct.Code.Characters.Instincts.Eat.Hungry=배고픈\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.Hungry.NoFood=No Food Available
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.Hungry.NoFood=\\untranslated
+Oct.Code.Characters.Instincts.Eat.Hungry.NoFood=음식이 없습니다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.NotHungry=Not Hungry
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.NotHungry=\\untranslated
+Oct.Code.Characters.Instincts.Eat.NotHungry=배고프지 않다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Emote=Emote
 \\
 \\\\
-Oct.Code.Characters.Instincts.Emote=\\untranslated
+Oct.Code.Characters.Instincts.Emote=이모티콘\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Emote.Dancing=Dancing
 \\
 \\\\
-Oct.Code.Characters.Instincts.Emote.Dancing=\\untranslated
+Oct.Code.Characters.Instincts.Emote.Dancing=댄스\\autotranslated
 
 \\\\
 \\
@@ -10130,14 +10130,14 @@ Oct.Code.Characters.Toasts.Escape.Thwarted={character}의 탈출이 좌절되었
 \\	Oct.Code.Characters.Instincts.Escape=Escape
 \\
 \\\\
-Oct.Code.Characters.Instincts.Escape=\\untranslated
+Oct.Code.Characters.Instincts.Escape=탈출하다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Escape.Escaping=Escaping
 \\
 \\\\
-Oct.Code.Characters.Instincts.Escape.Escaping=\\untranslated
+Oct.Code.Characters.Instincts.Escape.Escaping=탈출 중
 
 \\\\
 \\
@@ -10179,28 +10179,28 @@ Oct.Code.Characters.State.Escaping=탈출 중
 \\	Oct.Code.Characters.Instincts.Fight=Fight
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight=\\untranslated
+Oct.Code.Characters.Instincts.Fight=싸움\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Fight.Fighting=Fighting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight.Fighting=\\untranslated
+Oct.Code.Characters.Instincts.Fight.Fighting=화이팅\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Fight.WantsToFIght=Wants to Fight
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight.WantsToFIght=\\untranslated
+Oct.Code.Characters.Instincts.Fight.WantsToFIght=싸우고 싶어\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Fight.Enlisted=Enlisted
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight.Enlisted=\\untranslated
+Oct.Code.Characters.Instincts.Fight.Enlisted=징집함
 
 \\\\
 \\
@@ -10214,28 +10214,28 @@ Oct.Code.Characters.State.Fighting=싸우기
 \\	Oct.Code.Characters.Instincts.Flee=Flee
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee=\\untranslated
+Oct.Code.Characters.Instincts.Flee=서두르다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Flee.Enlisted=Enlisted
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee.Enlisted=\\untranslated
+Oct.Code.Characters.Instincts.Flee.Enlisted=징집함
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Flee.UnderFire=Under Fire
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee.UnderFire=\\untranslated
+Oct.Code.Characters.Instincts.Flee.UnderFire=화재 속에서\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Flee.Fire=Fire
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee.Fire=\\untranslated
+Oct.Code.Characters.Instincts.Flee.Fire=불\\autotranslated
 
 \\\\
 \\
@@ -10249,21 +10249,21 @@ Oct.Code.Characters.State.Fleeing=도주 중
 \\	Oct.Code.Characters.Instincts.Graze=Graze
 \\
 \\\\
-Oct.Code.Characters.Instincts.Graze=\\untranslated
+Oct.Code.Characters.Instincts.Graze=찰과상\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Graze.Grazing=Grazing
 \\
 \\\\
-Oct.Code.Characters.Instincts.Graze.Grazing=\\untranslated
+Oct.Code.Characters.Instincts.Graze.Grazing=방목\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Graze.NoFoodNearby=No Food Nearby
 \\
 \\\\
-Oct.Code.Characters.Instincts.Graze.NoFoodNearby=\\untranslated
+Oct.Code.Characters.Instincts.Graze.NoFoodNearby=근처에 음식이 없습니다\\autotranslated
 
 \\\\
 \\
@@ -10277,28 +10277,28 @@ Oct.Code.Characters.State.Grazing=방목 중
 \\	Oct.Code.Characters.Instincts.Herd=Herd
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd=\\untranslated
+Oct.Code.Characters.Instincts.Herd=떼\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Herd.Hungry=Hungry
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd.Hungry=\\untranslated
+Oct.Code.Characters.Instincts.Herd.Hungry=배고픈\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Herd.TargetTooFar=Target Too Far
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd.TargetTooFar=\\untranslated
+Oct.Code.Characters.Instincts.Herd.TargetTooFar=목표가 너무 멀리\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Herd.NewTarget=New Target
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd.NewTarget=\\untranslated
+Oct.Code.Characters.Instincts.Herd.NewTarget=새로운 타겟\\autotranslated
 
 \\\\
 \\
@@ -10312,14 +10312,14 @@ Oct.Code.Characters.State.FollowingHerd=무리를 따르는 중
 \\	Oct.Code.Characters.Instincts.Hunt=Hunt
 \\
 \\\\
-Oct.Code.Characters.Instincts.Hunt=\\untranslated
+Oct.Code.Characters.Instincts.Hunt=사냥\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Hunt.Hunting=Hunting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Hunt.Hunting=\\untranslated
+Oct.Code.Characters.Instincts.Hunt.Hunting=사냥 중
 
 \\\\
 \\
@@ -10333,98 +10333,98 @@ Oct.Code.Characters.State.Hunting=사냥 중
 \\	Oct.Code.Characters.Instincts.Relax=Relax
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax=\\untranslated
+Oct.Code.Characters.Instincts.Relax=안심하다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Celebrating=Celebrating
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Celebrating=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Celebrating=축하하다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Scheduled=Scheduled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Scheduled=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Scheduled=예정된\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.DisregardingSchedule=Disregarding Schedule
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.DisregardingSchedule=\\untranslated
+Oct.Code.Characters.Instincts.Relax.DisregardingSchedule=일정을 무시하고\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Yodeling=Yodeling
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Yodeling=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Yodeling=와 밤일\\copied
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Sit=Sitting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Sit=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Sit=좌석\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.CanRelax=Can Relax
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.CanRelax=\\untranslated
+Oct.Code.Characters.Instincts.Relax.CanRelax=휴식을 취할 수 있습니다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest=Rest
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest=\\untranslated
+Oct.Code.Characters.Instincts.Rest=나머지\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.UntilHealed=Resting Until Healed
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.UntilHealed=\\untranslated
+Oct.Code.Characters.Instincts.Rest.UntilHealed=치유될 때까지 쉬다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.Ordered=Ordered
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.Ordered=\\untranslated
+Oct.Code.Characters.Instincts.Rest.Ordered=주문했다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.Resting=Resting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.Resting=\\untranslated
+Oct.Code.Characters.Instincts.Rest.Resting=휴식 중\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.NeedRest=Need Rest
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.NeedRest=\\untranslated
+Oct.Code.Characters.Instincts.Rest.NeedRest=휴식이 필요해요\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.Scheduled=Scheduled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.Scheduled=\\untranslated
+Oct.Code.Characters.Instincts.Rest.Scheduled=예정된\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.InPain=In Pain
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.InPain=\\untranslated
+Oct.Code.Characters.Instincts.Rest.InPain=고통 속에서\\autotranslated
 
 \\\\
 \\
@@ -10445,84 +10445,84 @@ Oct.Code.Characters.State.Sleepign=자는 중
 \\	Oct.Code.Characters.Instincts.Socialize=Socialize
 \\
 \\\\
-Oct.Code.Characters.Instincts.Socialize=\\untranslated
+Oct.Code.Characters.Instincts.Socialize=사교하다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Socialize.NeedsTo=Need to Socialize
 \\
 \\\\
-Oct.Code.Characters.Instincts.Socialize.NeedsTo=\\untranslated
+Oct.Code.Characters.Instincts.Socialize.NeedsTo=사회화가 필요하다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Socialize.WantsTo=Want to Socialize
 \\
 \\\\
-Oct.Code.Characters.Instincts.Socialize.WantsTo=\\untranslated
+Oct.Code.Characters.Instincts.Socialize.WantsTo=사교하고 싶다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work=Work
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work=\\untranslated
+Oct.Code.Characters.Instincts.Work=일하다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.Ordered=Ordered
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.Ordered=\\untranslated
+Oct.Code.Characters.Instincts.Work.Ordered=주문했다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.FightingFire=Fighting Fire
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.FightingFire=\\untranslated
+Oct.Code.Characters.Instincts.Work.FightingFire=화재 진압\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.CriticalWork=Critical Work
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.CriticalWork=\\untranslated
+Oct.Code.Characters.Instincts.Work.CriticalWork=중요한 작업\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.Scheduled=Scheduled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.Scheduled=\\untranslated
+Oct.Code.Characters.Instincts.Work.Scheduled=예정된\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.Working=Working
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.Working=\\untranslated
+Oct.Code.Characters.Instincts.Work.Working=일하고 있는\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.ToDo=Have Work to do
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.ToDo=\\untranslated
+Oct.Code.Characters.Instincts.Work.ToDo=할 일이 있어요\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.TakingABreak=Taking a Break
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.TakingABreak=\\untranslated
+Oct.Code.Characters.Instincts.Work.TakingABreak=휴식 취하기\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.NoWorkToDo=No Work to do
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.NoWorkToDo=\\untranslated
+Oct.Code.Characters.Instincts.Work.NoWorkToDo=할 일이 없습니다\\autotranslated
 
 \\\\
 \\
@@ -12013,7 +12013,7 @@ Oct.Code.Characters.Sheet.Tabs.Jobs=일
 \\	Oct.Code.Characters.Sheet.Tabs.Work=Work
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Work=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Work=일하다\\autotranslated
 
 \\\\
 \\
@@ -12195,21 +12195,21 @@ Oct.Code.Characters.Rename.Kingdom.Lands=왕국 토지
 \\	Oct.Code.Characters.Sheet.Work.Title=Work Queue
 \\
 \\\\
-Oct.Code.Characters.Sheet.Work.Title=\\untranslated
+Oct.Code.Characters.Sheet.Work.Title=작업 대기열\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Work.Tooltip=The Work Queue lists the Commands this Mortal considered when last deciding what to do.\n\nCommands are listed in the order the Mortal will do them - hover a Command to access the list of reasons why.\n\nThe time remaining until their next evaluation is at the bottom.
 \\
 \\\\
-Oct.Code.Characters.Sheet.Work.Tooltip=\\untranslated
+Oct.Code.Characters.Sheet.Work.Tooltip=작업 대기열은 이 인간이 마지막으로 무엇을 할지 결정할 때 고려한 명령을 나열합니다.\n\n명령은 인간이 수행할 순서대로 나열됩니다. 명령에 마우스를 올리면 그 이유 목록을 볼 수 있습니다.\n\n다음 평가까지 남은 시간은 맨 아래에 있습니다.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Work.Tooltip.Glossary=Glossary
 \\
 \\\\
-Oct.Code.Characters.Sheet.Work.Tooltip.Glossary=\\untranslated
+Oct.Code.Characters.Sheet.Work.Tooltip.Glossary=어휘\\autotranslated
 
 \\\\
 \\
@@ -12230,14 +12230,14 @@ Oct.Code.Characters.Sheet.Rename.Tooltip=이름 수정
 \\	Oct.Code.Characters.Sheet.Edit.Character.Tooltip=Edit
 \\
 \\\\
-Oct.Code.Characters.Sheet.Edit.Character.Tooltip=외모 수정
+Oct.Code.Characters.Sheet.Edit.Character.Tooltip=편집하다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Instincts=Instincts
 \\
 \\\\
-Oct.Code.Characters.Sheet.Instincts=\\untranslated
+Oct.Code.Characters.Sheet.Instincts=본능\\autotranslated
 
 \\\\
 \\
@@ -12629,28 +12629,28 @@ Oct.Code.Characters.Editor.Tabs.Appearance=외모
 \\	Oct.Code.Characters.Preset.Save.Title=Save Preset?
 \\
 \\\\
-Oct.Code.Characters.Preset.Save.Title=\\untranslated
+Oct.Code.Characters.Preset.Save.Title=사전 설정을 저장하시겠습니까?\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Preset.Save.Name=Name
 \\
 \\\\
-Oct.Code.Characters.Preset.Save.Name=\\untranslated
+Oct.Code.Characters.Preset.Save.Name=이름\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Preset.Save=Save
 \\
 \\\\
-Oct.Code.Characters.Preset.Save=\\untranslated
+Oct.Code.Characters.Preset.Save=구하다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Preset.Apply.Header=Apply a Preset
 \\
 \\\\
-Oct.Code.Characters.Preset.Apply.Header=\\untranslated
+Oct.Code.Characters.Preset.Apply.Header=사전 설정 적용\\autotranslated
 
 \\\\
 \\
@@ -12664,21 +12664,21 @@ Oct.Code.Characters.Editor.Header={character.short} 편집
 \\	Oct.Code.Characters.Presets=Presets
 \\
 \\\\
-Oct.Code.Characters.Presets=\\untranslated
+Oct.Code.Characters.Presets=사전 설정\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Presets.Save=Save
 \\
 \\\\
-Oct.Code.Characters.Presets.Save=\\untranslated
+Oct.Code.Characters.Presets.Save=구하다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Presets.Apply=Apply
 \\
 \\\\
-Oct.Code.Characters.Presets.Apply=\\untranslated
+Oct.Code.Characters.Presets.Apply=적용하다\\autotranslated
 
 \\\\
 \\
@@ -13322,7 +13322,7 @@ Oct.Code.Command.Blocked.PrivatelyOwned=개인 소유함
 \\	Oct.Code.Command.Blocked.TargetBusy=Target is Busy
 \\
 \\\\
-Oct.Code.Command.Blocked.TargetBusy=\\untranslated
+Oct.Code.Command.Blocked.TargetBusy=타겟이 바빠요\\autotranslated
 
 \\\\
 \\
@@ -13343,14 +13343,14 @@ Oct.Code.Command.Micro={command} {target}
 \\	Oct.Code.Command.Blocked.NothingToShare=Nothing to Share
 \\
 \\\\
-Oct.Code.Command.Blocked.NothingToShare=\\untranslated
+Oct.Code.Command.Blocked.NothingToShare=공유할 것이 없습니다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Blocked.WontListen={character} won't listen
 \\
 \\\\
-Oct.Code.Command.Blocked.WontListen=\\untranslated
+Oct.Code.Command.Blocked.WontListen={character}은(는) 듣지 않을 것입니다\\autotranslated
 
 \\\\
 \\
@@ -13399,63 +13399,63 @@ Oct.Code.Command.Blocked.NeedProp=사용 가능한 {prop} 필요
 \\	Oct.Code.Command.Score.PeronalCommand=Personal Command
 \\
 \\\\
-Oct.Code.Command.Score.PeronalCommand=\\untranslated
+Oct.Code.Command.Score.PeronalCommand=개인 명령\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobPriority=Job Priority
 \\
 \\\\
-Oct.Code.Command.Score.JobPriority=\\untranslated
+Oct.Code.Command.Score.JobPriority=작업 우선순위\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobPriority.Definition=This Command's Job's Priority for this Mortal from the Jobs Screen.
 \\
 \\\\
-Oct.Code.Command.Score.JobPriority.Definition=\\untranslated
+Oct.Code.Command.Score.JobPriority.Definition=작업 화면에서 해당 명령의 작업 우선순위를 나타냅니다.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.CommandRushed=Command Rushed
 \\
 \\\\
-Oct.Code.Command.Score.CommandRushed=\\untranslated
+Oct.Code.Command.Score.CommandRushed=명령이 서두르다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.CommandRushed.Definition=This Command has been Rushed.
 \\
 \\\\
-Oct.Code.Command.Score.CommandRushed.Definition=\\untranslated
+Oct.Code.Command.Score.CommandRushed.Definition=이 명령은 서둘러 실행되었습니다.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobSequence=Job Sequence
 \\
 \\\\
-Oct.Code.Command.Score.JobSequence=\\untranslated
+Oct.Code.Command.Score.JobSequence=작업 순서\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobSequence.Definition=This Command's Sequence within it's Job - see the Job on the Jobs Screen for the full list.
 \\
 \\\\
-Oct.Code.Command.Score.JobSequence.Definition=\\untranslated
+Oct.Code.Command.Score.JobSequence.Definition=이 명령의 작업 내 시퀀스 - 전체 목록은 작업 화면에서 작업을 참조하세요.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.HelpSetupBase=Help Setup Base
 \\
 \\\\
-Oct.Code.Command.Score.HelpSetupBase=\\untranslated
+Oct.Code.Command.Score.HelpSetupBase=도움말 설정 기반\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.HelpSetupBase.Definition=This Command is important to setting up the initial base, so the Mortal will help even if not assigned to its Job.
 \\
 \\\\
-Oct.Code.Command.Score.HelpSetupBase.Definition=\\untranslated
+Oct.Code.Command.Score.HelpSetupBase.Definition=이 명령은 초기 기지를 세우는 데 중요하므로, 필멸자는 자신의 임무가 할당되지 않았더라도 도움을 줄 것입니다.\\autotranslated
 
 \\\\
 \\
@@ -13546,14 +13546,14 @@ Oct.Code.Commands.CaptureCharacter.Status={character} 포획 중
 \\	Oct.Code.Commands.Heuristics.NoBabiesNearby=No Babies Nearby
 \\
 \\\\
-Oct.Code.Commands.Heuristics.NoBabiesNearby=\\untranslated
+Oct.Code.Commands.Heuristics.NoBabiesNearby=근처에 아기가 없습니다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristics.Outdoors=Outdoors
 \\
 \\\\
-Oct.Code.Commands.Heuristics.Outdoors=\\untranslated
+Oct.Code.Commands.Heuristics.Outdoors=옥외\\autotranslated
 
 \\\\
 \\
@@ -13686,14 +13686,14 @@ Oct.Code.Commands.Blocked.Characters.TreatedBy={character}이(가) 치료함
 \\	Oct.Code.Commands.Heuristic.Distance=Distance
 \\
 \\\\
-Oct.Code.Commands.Heuristic.Distance=\\untranslated
+Oct.Code.Commands.Heuristic.Distance=거리\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristic.Age=Age
 \\
 \\\\
-Oct.Code.Commands.Heuristic.Age=\\untranslated
+Oct.Code.Commands.Heuristic.Age=나이\\autotranslated
 
 \\\\
 \\
@@ -13728,7 +13728,7 @@ Oct.Code.Commands.ConstructProp.Status={prop} 제작
 \\	Oct.Code.Commands.Heuristics.AwaitingResources=Awaiting Resources
 \\
 \\\\
-Oct.Code.Commands.Heuristics.AwaitingResources=\\untranslated
+Oct.Code.Commands.Heuristics.AwaitingResources=자원을 기다리는 중\\autotranslated
 
 \\\\
 \\
@@ -13840,7 +13840,7 @@ Oct.Code.Commands.DeliverItems.Status={items} 배달 중
 \\	Oct.Code.Commands.Heuristics.CharacterAbove=Character Above
 \\
 \\\\
-Oct.Code.Commands.Heuristics.CharacterAbove=\\untranslated
+Oct.Code.Commands.Heuristics.CharacterAbove=위의 문자\\autotranslated
 
 \\\\
 \\
@@ -13910,21 +13910,21 @@ Oct.Code.Commands.Equip.Blocked.Unowned=소유 안 됨
 \\	Oct.Code.Commands.Evangelize.Status=Evangelizing {ruler.con(myself,you,{ruler})} to {character}
 \\
 \\\\
-Oct.Code.Commands.Evangelize.Status=\\untranslated
+Oct.Code.Commands.Evangelize.Status={character}에게 복음을 전하는 통치자\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Evangelize.Verb=Evangelize {ruler.con(myself,you,{ruler})} To
 \\
 \\\\
-Oct.Code.Commands.Evangelize.Verb=\\untranslated
+Oct.Code.Commands.Evangelize.Verb=통치자에게 복음을 전하다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Evangelize.CommandVerbNoun=Evangelize {ruler.con(myself,you,{ruler})} to {character}
 \\
 \\\\
-Oct.Code.Commands.Evangelize.CommandVerbNoun=\\untranslated
+Oct.Code.Commands.Evangelize.CommandVerbNoun=통치자를 {character}에게 전도합니다\\autotranslated
 
 \\\\
 \\
@@ -13938,14 +13938,14 @@ Oct.Code.Commands.Blocked.Character.Downed={character}이(가) 쓰러짐
 \\	Oct.Code.Commands.Blocked.Character.IsEnemy={character} is an Enemy
 \\
 \\\\
-Oct.Code.Commands.Blocked.Character.IsEnemy=\\untranslated
+Oct.Code.Commands.Blocked.Character.IsEnemy={character}은 적입니다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristics.CharacterFoodNeed=Character Food Need
 \\
 \\\\
-Oct.Code.Commands.Heuristics.CharacterFoodNeed=\\untranslated
+Oct.Code.Commands.Heuristics.CharacterFoodNeed=캐릭터 음식 필요성\\autotranslated
 
 \\\\
 \\
@@ -14211,14 +14211,14 @@ Oct.Code.Commands.Influence.Subject={subject}에 관해 설교
 \\	Oct.Code.Commands.Influence.CommandVerbNoun=Preach to {character} about {subject}
 \\
 \\\\
-Oct.Code.Commands.Influence.CommandVerbNoun=\\untranslated
+Oct.Code.Commands.Influence.CommandVerbNoun={character}에게 {subject1}에 대해 설교하세요\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Influence.Importance=Importance
 \\
 \\\\
-Oct.Code.Commands.Influence.Importance=\\untranslated
+Oct.Code.Commands.Influence.Importance=중요성\\autotranslated
 
 \\\\
 \\
@@ -14295,7 +14295,7 @@ Oct.Code.Commands.Blocked.NoMilk=젖 없음
 \\	Oct.Code.Commands.Blocked.LowMilk=Low Milk
 \\
 \\\\
-Oct.Code.Commands.Blocked.LowMilk=\\untranslated
+Oct.Code.Commands.Blocked.LowMilk=우유 부족\\autotranslated
 
 \\\\
 \\
@@ -14358,7 +14358,7 @@ Oct.Code.Commands.Blocked.ProductionSatisfied=생산 만족됨
 \\	Oct.Code.Commands.Blocked.Waiting=Waiting
 \\
 \\\\
-Oct.Code.Commands.Blocked.Waiting=\\untranslated
+Oct.Code.Commands.Blocked.Waiting=대기 중\\autotranslated
 
 \\\\
 \\
@@ -14638,7 +14638,7 @@ Oct.Code.Commands.Blocked.Bed.Unreachable=침대 도달 불가
 \\	Oct.Code.Commands.Heuristics.AlreadyStored=Already Stored
 \\
 \\\\
-Oct.Code.Commands.Heuristics.AlreadyStored=\\untranslated
+Oct.Code.Commands.Heuristics.AlreadyStored=이미 저장됨\\autotranslated
 
 \\\\
 \\
@@ -14701,112 +14701,112 @@ Oct.Code.Commands.Clean=치우기
 \\	Oct.Code.Commands.Score.CommandPriority=Command Priority
 \\
 \\\\
-Oct.Code.Commands.Score.CommandPriority=\\untranslated
+Oct.Code.Commands.Score.CommandPriority=명령 우선 순위\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.NotAssigned=Not Assigned
 \\
 \\\\
-Oct.Code.Commands.Score.NotAssigned=\\untranslated
+Oct.Code.Commands.Score.NotAssigned=할당되지 않음\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Complete=Complete
 \\
 \\\\
-Oct.Code.Commands.Score.Complete=\\untranslated
+Oct.Code.Commands.Score.Complete=완벽한\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Critical=Critical
 \\
 \\\\
-Oct.Code.Commands.Score.Critical=\\untranslated
+Oct.Code.Commands.Score.Critical=비판적인\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Critical.Definition=This Command is Critical to Survival.
 \\
 \\\\
-Oct.Code.Commands.Score.Critical.Definition=\\untranslated
+Oct.Code.Commands.Score.Critical.Definition=이 명령은 생존에 필수적입니다.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Work=Work
 \\
 \\\\
-Oct.Code.Commands.Score.Work=\\untranslated
+Oct.Code.Commands.Score.Work=일하다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Work.Definition=This Command is included in one of the Mortal's Jobs.
 \\
 \\\\
-Oct.Code.Commands.Score.Work.Definition=\\untranslated
+Oct.Code.Commands.Score.Work.Definition=이 명령은 필멸자의 직업 중 하나에 포함되어 있습니다.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.JobPrioritized=Job Prioritized
 \\
 \\\\
-Oct.Code.Commands.Score.JobPrioritized=\\untranslated
+Oct.Code.Commands.Score.JobPrioritized=우선순위가 지정된 작업\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.JobPrioritized.Definition=This Command's Job has been Prioritized from the top of the Jobs Screen.
 \\
 \\\\
-Oct.Code.Commands.Score.JobPrioritized.Definition=\\untranslated
+Oct.Code.Commands.Score.JobPrioritized.Definition=이 명령의 작업은 작업 화면 상단에서 우선순위가 지정되었습니다.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.SetupBaseFirst=Setup Base first
 \\
 \\\\
-Oct.Code.Commands.Score.SetupBaseFirst=\\untranslated
+Oct.Code.Commands.Score.SetupBaseFirst=먼저 Base를 설정하세요\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.SetupBaseFirst.Definition=This Command is less important than setting up the initial base.
 \\
 \\\\
-Oct.Code.Commands.Score.SetupBaseFirst.Definition=\\untranslated
+Oct.Code.Commands.Score.SetupBaseFirst.Definition=이 명령은 초기 기지를 세우는 것보다 덜 중요합니다.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Deltas.OutOfTime=Job Time Limit Reached
 \\
 \\\\
-Oct.Code.Commands.Deltas.OutOfTime=\\untranslated
+Oct.Code.Commands.Deltas.OutOfTime=작업 시간 제한에 도달했습니다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.NotIncludedInScheme=Not Included in Scheme
 \\
 \\\\
-Oct.Code.Commands.Score.NotIncludedInScheme=\\untranslated
+Oct.Code.Commands.Score.NotIncludedInScheme=계획에 포함되지 않음\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.HelpOut=Help out
 \\
 \\\\
-Oct.Code.Commands.Score.HelpOut=\\untranslated
+Oct.Code.Commands.Score.HelpOut=도와주세요\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Deltas.InBattle=Target in Battle
 \\
 \\\\
-Oct.Code.Commands.Deltas.InBattle=\\untranslated
+Oct.Code.Commands.Deltas.InBattle=전투에서의 목표\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristic.Blocked=Blocked
 \\
 \\\\
-Oct.Code.Commands.Heuristic.Blocked=\\untranslated
+Oct.Code.Commands.Heuristic.Blocked=막힌\\autotranslated
 
 \\\\
 \\
@@ -14820,7 +14820,7 @@ Oct.Code.Commands.Items.Move=이동
 \\	Oct.Code.Commands.items.AssignedStorage=Assigned Storage
 \\
 \\\\
-Oct.Code.Commands.items.AssignedStorage=\\untranslated
+Oct.Code.Commands.items.AssignedStorage=할당된 스토리지\\autotranslated
 
 \\\\
 \\
@@ -15044,63 +15044,63 @@ Oct.Code.Commands.Gather=모으기
 \\	Oct.Code.Commands.Work.Modifiers=Modifiers
 \\
 \\\\
-Oct.Code.Commands.Work.Modifiers=\\untranslated
+Oct.Code.Commands.Work.Modifiers=수정자\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Assigned=Assigned
 \\
 \\\\
-Oct.Code.Commands.Assigned=\\untranslated
+Oct.Code.Commands.Assigned=할당된\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Queued=Queued
 \\
 \\\\
-Oct.Code.Commands.Queued=\\untranslated
+Oct.Code.Commands.Queued=대기 중\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.CharacterAssigned={character} Assigned
 \\
 \\\\
-Oct.Code.Commands.CharacterAssigned=\\untranslated
+Oct.Code.Commands.CharacterAssigned={character} 할당됨\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.QueuedFor=Queued for {character}
 \\
 \\\\
-Oct.Code.Commands.QueuedFor=\\untranslated
+Oct.Code.Commands.QueuedFor={character} 대기 중\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.WasBlocked=Was Blocked
 \\
 \\\\
-Oct.Code.Commands.WasBlocked=\\untranslated
+Oct.Code.Commands.WasBlocked=차단되었습니다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Unassigned=Unassigned
 \\
 \\\\
-Oct.Code.Commands.Unassigned=\\untranslated
+Oct.Code.Commands.Unassigned=할당되지 않음\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Work.Score=Score
 \\
 \\\\
-Oct.Code.Commands.Work.Score=\\untranslated
+Oct.Code.Commands.Work.Score=점수\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Work.Reasons=Reasons
 \\
 \\\\
-Oct.Code.Commands.Work.Reasons=\\untranslated
+Oct.Code.Commands.Work.Reasons=이유\\autotranslated
 
 \\\\
 \\
@@ -15310,7 +15310,7 @@ Oct.Code.Common.Decays=부패
 \\	Oct.Code.Common.Delete=Delete
 \\
 \\\\
-Oct.Code.Common.Delete=\\untranslated
+Oct.Code.Common.Delete=삭제\\autotranslated
 
 \\\\
 \\
@@ -16091,7 +16091,7 @@ Oct.Code.Concessions.SendItems.Available=이용 가능
 \\	Oct.Code.Concessions.SendItems.Inconvenience=Inconvenience
 \\
 \\\\
-Oct.Code.Concessions.SendItems.Inconvenience=\\untranslated
+Oct.Code.Concessions.SendItems.Inconvenience=불편\\autotranslated
 
 \\\\
 \\
@@ -16686,7 +16686,7 @@ Oct.Code.Embark.Bringing=가져오는 중
 \\	Oct.Code.Embark.NOTE=NOTE
 \\
 \\\\
-Oct.Code.Embark.NOTE=\\untranslated
+Oct.Code.Embark.NOTE=참고
 
 \\\\
 \\
@@ -22199,7 +22199,7 @@ Oct.Code.Items.Stats.Capacity=용량
 \\	Oct.Code.Job.Assigned=Assigned {job}
 \\
 \\\\
-Oct.Code.Job.Assigned=\\untranslated
+Oct.Code.Job.Assigned=할당된 {job}\\autotranslated
 
 \\\\
 \\
@@ -22430,14 +22430,14 @@ Oct.Code.Kingdom.Member.WantsToLeave={pawn}이(가) 떠나고 싶어 합니다
 \\	Oct.Code.Kingdom.ChooseEmblem=Choose Emblem
 \\
 \\\\
-Oct.Code.Kingdom.ChooseEmblem=\\untranslated
+Oct.Code.Kingdom.ChooseEmblem=엠블럼 선택
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.ChooseColor=Choose Color
 \\
 \\\\
-Oct.Code.Kingdom.ChooseColor=\\untranslated
+Oct.Code.Kingdom.ChooseColor=색상 선택
 
 \\\\
 \\
@@ -22621,14 +22621,14 @@ Oct.Code.LoadGame.DeleteConfirmation=파일이 휴지통으로 옮겨집니다.<
 \\	Oct.Code.LoadGame.DeleteAll.Confirmation.Header=Delete Listed?
 \\
 \\\\
-Oct.Code.LoadGame.DeleteAll.Confirmation.Header=\\untranslated
+Oct.Code.LoadGame.DeleteAll.Confirmation.Header=나열된 항목을 삭제하시겠습니까?\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.DeleteAll.Confirmation=The files listed will all be <br><b>PERMANENTLY DELETED</b>.<br><br>Continue?<br>
 \\
 \\\\
-Oct.Code.LoadGame.DeleteAll.Confirmation=\\untranslated
+Oct.Code.LoadGame.DeleteAll.Confirmation=나열된 파일은 모두 <br><b>영구적으로 삭제됩니다</b>.<br><br>계속하시겠습니까?<br>\\autotranslated
 
 \\\\
 \\
@@ -22642,7 +22642,7 @@ Oct.Code.LoadGame.Header=게임 불러오기
 \\	Oct.Code.LoadGame.Filter=Filter
 \\
 \\\\
-Oct.Code.LoadGame.Filter=\\untranslated
+Oct.Code.LoadGame.Filter=필터\\autotranslated
 
 \\\\
 \\
@@ -22670,7 +22670,7 @@ Oct.Code.LoadGame.Mods.Match.Caption=일치
 \\	Oct.Code.LoadGame.Delete.Listed=Delete {count} Listed
 \\
 \\\\
-Oct.Code.LoadGame.Delete.Listed=\\untranslated
+Oct.Code.LoadGame.Delete.Listed={count}개 삭제\\autotranslated
 
 \\\\
 \\
@@ -23188,7 +23188,7 @@ Oct.Code.NewGame.Begin=시작
 \\	Oct.Code.News.Conquest.Title=Noble Fates: Conquest
 \\
 \\\\
-Oct.Code.News.Conquest.Title=\\untranslated
+Oct.Code.News.Conquest.Title=Noble Fates: Conquest
 
 \\\\
 \\
@@ -24998,7 +24998,7 @@ Oct.Code.Save.DiscardProgress=저장하지 않은 진행 내용은 손실됩니�
 \\	Oct.Code.Save.Preset.Delete=The Preset will <br><b>PERMANENTLY DELETED<\b>.<br><br>Continue?<br>
 \\
 \\\\
-Oct.Code.Save.Preset.Delete=\\untranslated
+Oct.Code.Save.Preset.Delete=사전 설정이 <br><b>영구적으로 삭제됩니다<\b>.<br><br>계속하시겠습니까?<br>\\autotranslated
 
 \\\\
 \\
@@ -25040,21 +25040,21 @@ Oct.Code.Schedule.Header=일정
 \\	Oct.Code.Schedule.Copy=Copy
 \\
 \\\\
-Oct.Code.Schedule.Copy=\\untranslated
+Oct.Code.Schedule.Copy=복사\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Schedule.Paste=Paste
 \\
 \\\\
-Oct.Code.Schedule.Paste=\\untranslated
+Oct.Code.Schedule.Paste=반죽\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Schedule.ClearAll=Clear All
 \\
 \\\\
-Oct.Code.Schedule.ClearAll=\\untranslated
+Oct.Code.Schedule.ClearAll=모두 지우기\\autotranslated
 
 \\\\
 \\
@@ -25446,7 +25446,7 @@ Oct.Code.Stats.Nursing=간호
 \\	Oct.Code.Stats.Building=Building
 \\
 \\\\
-Oct.Code.Stats.Building=제작
+Oct.Code.Stats.Building=건설\\updated
 
 \\\\
 \\
@@ -25474,7 +25474,7 @@ Oct.Code.Stats.Foraging=채집
 \\	Oct.Code.Stats.Crafting=Crafting
 \\
 \\\\
-Oct.Code.Stats.Crafting=제조
+Oct.Code.Stats.Crafting=제작
 
 \\\\
 \\
@@ -25712,42 +25712,42 @@ Oct.Code.Stockpile.Header=비축물
 \\	Oct.Code.Storage.Free=Storage Free
 \\
 \\\\
-Oct.Code.Storage.Free=\\untranslated
+Oct.Code.Storage.Free=무료 보관\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots=Slots
 \\
 \\\\
-Oct.Code.Storage.Slots=\\untranslated
+Oct.Code.Storage.Slots=슬롯\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Used=Used
 \\
 \\\\
-Oct.Code.Storage.Slots.Used=\\untranslated
+Oct.Code.Storage.Slots.Used=사용된\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Reserved=Reserved
 \\
 \\\\
-Oct.Code.Storage.Slots.Reserved=\\untranslated
+Oct.Code.Storage.Slots.Reserved=예약된\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Remaining=Remaining
 \\
 \\\\
-Oct.Code.Storage.Slots.Remaining=\\untranslated
+Oct.Code.Storage.Slots.Remaining=남은\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Insufficient=Insufficient Slots
 \\
 \\\\
-Oct.Code.Storage.Slots.Insufficient=\\untranslated
+Oct.Code.Storage.Slots.Insufficient=슬롯이 부족합니다\\autotranslated
 
 \\\\
 \\
@@ -26251,14 +26251,14 @@ Oct.Code.Trade.YourKingdom=당신의 왕국
 \\	Oct.Code.Transport.Item.Command.Blocked.InsufficientStorage=Insufficient Storage
 \\
 \\\\
-Oct.Code.Transport.Item.Command.Blocked.InsufficientStorage=\\untranslated
+Oct.Code.Transport.Item.Command.Blocked.InsufficientStorage=저장 공간이 부족합니다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Transport.Item.Command.Blocked.Processing=Processing
 \\
 \\\\
-Oct.Code.Transport.Item.Command.Blocked.Processing=\\untranslated
+Oct.Code.Transport.Item.Command.Blocked.Processing=처리 중\\autotranslated
 
 \\\\
 \\
@@ -26468,14 +26468,14 @@ Oct.Code.Visibility.Items.Stats=아이템 능력치
 \\	Oct.Code.Visibility.Items.Ignored=Ignored Icons
 \\
 \\\\
-Oct.Code.Visibility.Items.Ignored=\\untranslated
+Oct.Code.Visibility.Items.Ignored=무시된 아이콘\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Items.InsufficientStorage=Storage Icons
 \\
 \\\\
-Oct.Code.Visibility.Items.InsufficientStorage=\\untranslated
+Oct.Code.Visibility.Items.InsufficientStorage=저장 아이콘\\autotranslated
 
 \\\\
 \\
@@ -27087,7 +27087,7 @@ Oct.Commands.Jobs.Nursing.name=간호
 \\	Oct.Commands.Jobs.Nursing.tooltip=Nursing determines how quickly and successfully this Mortal treats other Mortals.
 \\
 \\\\
-Oct.Commands.Jobs.Nursing.tooltip=간호는 이 캐릭터가 다른 캐릭터들을 얼마나<br>빠르고 성공적으로 돌보는지 결정합니다.
+Oct.Commands.Jobs.Nursing.tooltip=간호는 이 캐릭터가 다른 캐릭터들을 얼마나 빠르고 성공적으로 돌보는지 결정합니다.
 
 \\\\
 \\
@@ -27118,7 +27118,7 @@ Oct.Commands.Jobs.Mining.name=채굴
 \\	Oct.Commands.Jobs.Mining.tooltip=Mining determines how quickly and successfully the Mortal can Mine the terrain.
 \\
 \\\\
-Oct.Commands.Jobs.Mining.tooltip=채굴은 캐릭터가 지형을 얼마나 빠르고 성공적으로<br>채굴하는지 결정합니다.
+Oct.Commands.Jobs.Mining.tooltip=채굴은 캐릭터가 지형을 얼마나 빠르고 성공적으로 채굴하는지 결정합니다.
 
 \\\\
 \\
@@ -27145,7 +27145,7 @@ Oct.Commands.Jobs.Building.name=제작
 \\	Oct.Commands.Jobs.Building.tooltip=Building is very important in Noble Fates. Building determines the speed, precision, and quality of props that the Mortal builds. In addition, Building Skill gates access to more advanced recipes.
 \\
 \\\\
-Oct.Commands.Jobs.Building.tooltip=제작은 Noble Fates의 매우 중요한 요소입니다. 제작은 캐릭터가 소품을<br>제작할 때의 속도, 정확도, 수량에 영향을 줍니다. 품질이 높은 소품은<br>더 천천히 마모됩니다. 또한 제작 스킬을 통해<br>더 상급의 레시피를 습득할 수 있습니다.
+Oct.Commands.Jobs.Building.tooltip=제작은 Noble Fates의 매우 중요한 요소입니다. 제작은 캐릭터가 소품을 제작할 때의 속도, 정확도, 수량에 영향을 줍니다. 품질이 높은 소품은 더 천천히 마모됩니다. 또한 제작 스킬을 통해 더 상급의 레시피를 습득할 수 있습니다.
 
 \\\\
 \\
@@ -27178,7 +27178,7 @@ Oct.Commands.Jobs.Logging.name=벌목
 \\	Oct.Commands.Jobs.Logging.tooltip=Logging determines how quickly and successfully the Mortal can cut down Foliage - directly contributing to the resource yield.
 \\
 \\\\
-Oct.Commands.Jobs.Logging.tooltip=벌목은 캐릭터가 관목을 얼마나 빠르고 성공적으로 베는지 결정합니다.<br>자원 생산량에 직접 기여합니다.
+Oct.Commands.Jobs.Logging.tooltip=벌목은 캐릭터가 관목을 얼마나 빠르고 성공적으로 베는지 결정합니다. 자원 생산량에 직접 기여합니다.
 
 \\\\
 \\
@@ -27207,7 +27207,7 @@ Oct.Commands.Jobs.Farming.name=농업
 \\	Oct.Commands.Jobs.Farming.tooltip=Farming determines how quickly and successfully the Mortal can Plant and Harvest Crops - having a direct impact on their resource yield.
 \\
 \\\\
-Oct.Commands.Jobs.Farming.tooltip=농업은 캐릭터가 작물을 얼마나 빠르고<br>성공적으로 심고 수확하는지 결정합니다.<br>자원 생산량에 직접 기여합니다.
+Oct.Commands.Jobs.Farming.tooltip=농업은 캐릭터가 작물을 얼마나 빠르고 성공적으로 심고 수확하는지 결정합니다. 자원 생산량에 직접 기여합니다.
 
 \\\\
 \\
@@ -27234,7 +27234,7 @@ Oct.Commands.Jobs.Foraging.name=채집
 \\	Oct.Commands.Jobs.Foraging.tooltip=Foraging determines how quickly and successfully the Mortal can Harvest Foliage - directly contributing to the resource yield.
 \\
 \\\\
-Oct.Commands.Jobs.Foraging.tooltip=채집은 캐릭터가 관목을 얼마나 빠르고 성공적으로 수확하는지 결정합니다.<br>자원 생산량에 직접 기여합니다.
+Oct.Commands.Jobs.Foraging.tooltip=채집은 캐릭터가 관목을 얼마나 빠르고 성공적으로 수확하는지 결정합니다. 자원 생산량에 직접 기여합니다.
 
 \\\\
 \\
@@ -27261,7 +27261,7 @@ Oct.Commands.Jobs.Hauling.name=운송
 \\	Oct.Commands.Jobs.Hauling.tooltip=Hauling determines how quickly the Mortal can Haul items. In addition, Hauling Skill controls the number of items that can be carried at the same time.
 \\
 \\\\
-Oct.Commands.Jobs.Hauling.tooltip=운송은 캐릭터가 아이템을 얼마나 빠르고 성공적으로 운송할 수 있는지<br>결정합니다. 또한 운송 스킬은 동시에 운반할 수 있는<br>아이템 수에도 영향을 줍니다.
+Oct.Commands.Jobs.Hauling.tooltip=운송은 캐릭터가 아이템을 얼마나 빠르고 성공적으로 운송할 수 있는지 결정합니다. 또한 운송 스킬은 동시에 운반할 수 있는 아이템 수에도 영향을 줍니다.
 
 \\\\
 \\
@@ -27288,7 +27288,7 @@ Oct.Commands.Jobs.Crafting.name=제조
 \\	Oct.Commands.Jobs.Crafting.tooltip=Crafting is important in Noble Fates. Crafting determines the speed, precision, and quality of items that the Mortal crafts. Higher quality leads to higher rarity of items crafted. In addition, Crafting Skill gates access to more advanced recipes.
 \\
 \\\\
-Oct.Commands.Jobs.Crafting.tooltip=제조는 Noble Fates의 중요한 요소입니다. 제조는 캐릭터가 아이템을<br>제작할 때의 속도, 정확도, 수량에 영향을 줍니다. 품질이 높으면 아이템의<br>희귀도가 더 높아집니다. 또한 제조 스킬을 통해<br>더 상급의 레시피를 습득할 수 있습니다.
+Oct.Commands.Jobs.Crafting.tooltip=제조는 Noble Fates의 중요한 요소입니다. 제조는 캐릭터가 아이템을 제작할 때의 속도, 정확도, 수량에 영향을 줍니다. 품질이 높으면 아이템의 희귀도가 더 높아집니다. 또한 제조 스킬을 통해 더 상급의 레시피를 습득할 수 있습니다.
 
 \\\\
 \\
@@ -27321,7 +27321,7 @@ Oct.Commands.Jobs.Ranching.name=목축
 \\	Oct.Commands.Jobs.Ranching.tooltip=Ranching determines how quickly and successfully the Mortal can interact with Animals.
 \\
 \\\\
-Oct.Commands.Jobs.Ranching.tooltip=목축은 캐릭터가 동물과 얼마나 빠르고 성공적으로<br>상호작용하는지 결정합니다.
+Oct.Commands.Jobs.Ranching.tooltip=목축은 캐릭터가 동물과 얼마나 빠르고 성공적으로 상호작용하는지 결정합니다.
 
 \\\\
 \\
@@ -27348,7 +27348,7 @@ Oct.Commands.Jobs.Hunting.name=사냥
 \\	Oct.Commands.Jobs.Hunting.tooltip=Hunting determines how quickly and successfully the Mortal can Hunt Animals.<br><br>Hunting is backed by the Ranged Skill which controls the speed and accuracy of their ranged shots, which shots they will attempt, and the amount of their Weapon's damage that is inflicted on target.
 \\
 \\\\
-Oct.Commands.Jobs.Hunting.tooltip=사냥은 캐릭터가 동물을 얼마나 빠르고 성공적으로<br>사냥할 수 있는지를 결정합니다.<br><br>사냥은 원거리 사격의 속도와 정확도,<br>시도할 사격, 대상에 주는 무기의 대미지를<br>좌우하는 원거리 스킬의 영향을 받습니다.
+Oct.Commands.Jobs.Hunting.tooltip=사냥은 캐릭터가 동물을 얼마나 빠르고 성공적으로 사냥할 수 있는지를 결정합니다.<br><br>사냥은 원거리 사격의 속도와 정확도,시도할 사격, 대상에 주는 무기의 대미지를 좌우하는 원거리 스킬의 영향을 받습니다.
 
 \\\\
 \\
@@ -27379,7 +27379,7 @@ Oct.Commands.Jobs.Cooking.name=요리
 \\	Oct.Commands.Jobs.Cooking.tooltip=Cooking determines how quickly and successfully the Mortal can Cook. Cooking contributes to recipe yield.
 \\
 \\\\
-Oct.Commands.Jobs.Cooking.tooltip=요리는 캐릭터가 얼마나 빠르고 성공적으로 요리할 수 있는지를<br>결정합니다. 요리는 레시피 생산량에 기여합니다.
+Oct.Commands.Jobs.Cooking.tooltip=요리는 캐릭터가 얼마나 빠르고 성공적으로 요리할 수 있는지를 결정합니다. 요리는 레시피 생산량에 기여합니다.
 
 \\\\
 \\
@@ -27410,7 +27410,7 @@ Oct.Commands.Jobs.FireFighting.name=소방
 \\	Oct.Commands.Jobs.FireFighting.tooltip=Fire Fighting Skill is based on the Mortal's level. It determines how quickly they fight fires, how successful they are at putting them out, and how likely they are to catch on fire themselves!
 \\
 \\\\
-Oct.Commands.Jobs.FireFighting.tooltip=소방 스킬은 캐릭터 레벨에 따라 달라지며,<br>불을 얼마나 빠르고 성공적으로 끄는지,<br>그리고 자신의 몸에 불이 붙을 확률에 영향을 줍니다!
+Oct.Commands.Jobs.FireFighting.tooltip=소방 스킬은 캐릭터 레벨에 따라 달라지며,불을 얼마나 빠르고 성공적으로 끄는지,그리고 자신의 몸에 불이 붙을 확률에 영향을 줍니다!
 
 \\\\
 \\
@@ -27433,7 +27433,7 @@ Oct.Commands.Jobs.Guarding.name=경비
 \\	Oct.Commands.Jobs.Guarding.tooltip=Mortals assigned to Guarding will attempt to defend the Kingdom from threats. They will also handle and intimidate Prisoners and Serfs as needed.<br><br>Guarding is backed by the Mortal's Melee Skill. Melee determines how often a Mortal attacks, whether their attacks land, and the amount of their Weapon's damage that is inflicted on target.
 \\
 \\\\
-Oct.Commands.Jobs.Guarding.tooltip=경비에 배정된 캐릭터는 위협으로부터 왕국을<br>방어합니다. 또한 필요에 따라 수감자와 소작인을<br>다루고 위협할 수 있습니다.<br><br>경비는 캐릭터의 근거리 스킬에 영향을 받습니다.<br>근거리 스킬은 캐릭터의 공격 빈도, 공격의 적중 여부,<br>대상에 주는 무기 대미지를 결정합니다.
+Oct.Commands.Jobs.Guarding.tooltip=경비에 배정된 캐릭터는 위협으로부터 왕국을 방어합니다. 또한 필요에 따라 수감자와 소작인을 다루고 위협할 수 있습니다.<br><br>경비는 캐릭터의 근거리 스킬에 영향을 받습니다.근거리 스킬은 캐릭터의 공격 빈도, 공격의 적중 여부,대상에 주는 무기 대미지를 결정합니다.
 
 \\\\
 \\
@@ -27458,7 +27458,7 @@ Oct.Commands.Jobs.Preaching.name=설교
 \\	Oct.Commands.Jobs.Preaching.tooltip=Preaching determines how quickly and successfully this Mortal influences other Mortals.
 \\
 \\\\
-Oct.Commands.Jobs.Preaching.tooltip=설교는 이 캐릭터가 다른 캐릭터들에게 얼마나 빠르고<br>성공적으로 영향력을 행사하는지 결정합니다.
+Oct.Commands.Jobs.Preaching.tooltip=설교는 이 캐릭터가 다른 캐릭터들에게 얼마나 빠르고 성공적으로 영향력을 행사하는지 결정합니다.
 
 \\\\
 \\
@@ -27495,7 +27495,7 @@ Oct.Commands.Jobs.Cleaning.name=청소
 \\	Oct.Commands.Jobs.Cleaning.tooltip=Cleaning determines how quickly and successfully the Mortal can Clean up debris.
 \\
 \\\\
-Oct.Commands.Jobs.Cleaning.tooltip=청소는 캐릭터가 폐기물을 얼마나 빠르고 성공적으로<br>치우는지 결정합니다.
+Oct.Commands.Jobs.Cleaning.tooltip=청소는 캐릭터가 폐기물을 얼마나 빠르고 성공적으로 치우는지 결정합니다.
 
 \\\\
 \\
@@ -27792,7 +27792,7 @@ Oct.Commands.Types.Haul.name=운송
 \\	Oct.Commands.Types.Transport.Item.name=Store
 \\
 \\\\
-Oct.Commands.Types.Transport.Item.name=\\untranslated
+Oct.Commands.Types.Transport.Item.name=보관
 
 \\\\
 \\
@@ -28058,14 +28058,14 @@ Oct.Commands.Types.Influence.name=설교
 \\	Oct.Commands.Types.Evangelize.name=Evangelize
 \\
 \\\\
-Oct.Commands.Types.Evangelize.name=\\untranslated
+Oct.Commands.Types.Evangelize.name=전도하다\\autotranslated
 
 \\\\
 \\
 \\	Oct.Commands.Types.Evangelize.tooltip=Your Preachers share information with the Target that they think raise their Opinion of your Ruler. Other Mortals who Dislike the information may overhear it and have a Negative Reaction.<br><br>Preaching Skill and Reasoning determine how well they pick information to share and how well it is received by those who hear it.<br><br>Preachers will stop when they run out of things to share or the Target Likes (or Loves when Ordered via Right Click) your Ruler.
 \\
 \\\\
-Oct.Commands.Types.Evangelize.tooltip=\\untranslated
+Oct.Commands.Types.Evangelize.tooltip=설교자는 대상에게 통치자에 대한 의견을 높일 수 있다고 생각되는 정보를 공유합니다. 정보를 싫어하는 다른 필멸자들은 이를 엿듣고 부정적인 반응을 보일 수 있습니다.<br><br>설교 능력과 추론 능력은 설교자가 공유할 정보를 얼마나 잘 선택하고 듣는 사람들이 얼마나 잘 받아들이는지 결정합니다.<br><br>설교자는 공유할 정보가 없거나 대상이 통치자를 좋아하면(또는 마우스 오른쪽 버튼으로 주문하면 좋아하면) 중단합니다.\\autotranslated
 
 \\\\
 \\
@@ -30188,28 +30188,28 @@ Oct.Crisis.CaptureFriendly.Conversation.RulerToSelf.Ask.Decision.No.Nudge.Confir
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.caption=Yes
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.caption=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.caption=네
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.tooltip={target} is Executed.<br><br>The fight continues until {target.kingdom} forces Flee and the Kingdom Dissolves.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.tooltip=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.tooltip={target}이(가) 처형됩니다.<br><br>싸움은 {target.kingdom} 병력이 퇴각하고 왕국이 붕괴할 때까지 계속됩니다.
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.caption=No
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.caption=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.caption=아니요
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip=The fight continues until {target} Surrenders.<br><br>You decide their Fate then.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip={target}이(가) 항복할 때까지 싸움이 계속됩니다.<br><br>항복하면 당신의 손에 운명이 결정됩니다.
 
 \\\\
 \\
@@ -30219,7 +30219,10 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=Do as you wish with me, my forces shall fight on!
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=투항하지 않겠다!
+Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=항복할 수는 없다!
+Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=항복하지 않겠다!
+Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=뜻대로 하여라. 내 병력은 계속 싸울 테니!
 
 \\\\
 \\
@@ -30228,14 +30231,14 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToNoble.Ask.lines+={pawn.address}, Execute {target} before they've Surrendered?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToNoble.Ask.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToNoble.Ask.lines+={pawn.address}, {target}이(가) 항복하기 전에 처형할까요?
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt=Execute {target}?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt={target}을(를) 처형할까요?
 
 \\\\
 \\
@@ -30244,7 +30247,9 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=Yes! How dare you question an order from me!
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=그래, 명령대로 하라.
+Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=물론, 나는 실수하지 않는다.
+Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=그래! 감히 어찌 내 명령에 의문을 가질 수가 있는가!
 
 \\\\
 \\
@@ -30253,7 +30258,9 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=No, no. Good catch.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=당연히 아니지.
+Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=아니, 내 실수다.
+Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=아, 아니... 잘 짚어주었군.
 
 \\\\
 \\
@@ -30262,35 +30269,35 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToSelf.Ask.lines+=Hrm... Execute {target} before they've Surrendered?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToSelf.Ask.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToSelf.Ask.lines+=흠... {target}이(가) 항복하기 전에 처형할까?
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.caption=Yes
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.caption=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.caption=네
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.tooltip={target} is Captured.<br><br>The fight continues until {target.kingdom} forces Flee and the Kingdom Dissolves.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.tooltip=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.tooltip={target}이(가) 포획됩니다.<br><br>싸움은 {target.kingdom} 병력이 퇴각하고 왕국이 붕괴할 때까지 계속됩니다.
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.caption=No
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.caption=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.caption=아니요
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip=The fight continues until {target} Surrenders.<br><br>You decide their Fate then.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip={target}이(가) 항복할 때까지 싸움이 계속됩니다.<br><br>항복하면 당신의 손에 운명이 결정됩니다.
 
 \\\\
 \\
@@ -30299,14 +30306,14 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToNoble.Ask.lines+={pawn.address}, Capture {target} before they've Surrendered?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToNoble.Ask.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToNoble.Ask.lines+={pawn.address}, {target}이(가) 항복하기 전에 포획할까요?
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt=Capture {target}?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt={target}을(를) 포획할까요?
 
 \\\\
 \\
@@ -30315,7 +30322,7 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToSelf.Ask.lines+=Hrm... Capture {target} before they've Surrendered?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToSelf.Ask.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToSelf.Ask.lines+=흠... {target}이(가) 항복하기 전에 포획할까?
 
 \\\\
 \\
@@ -31851,9 +31858,6 @@ Oct.Grammar.Lines.Opinion.Third.Third.Third.results+=^[Oct.Grammar.Opinion.Noun.
 \\\\
 Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think>: {grammar.alignmentStatement}
 Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think>: {grammar.alignmentStatement}
-Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think>: {grammar.alignmentStatement}
-Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think>: {grammar.alignmentStatement}
-Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}
 
 \\\\
 \\
@@ -31862,7 +31866,9 @@ Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}
 \\	Oct.Grammar.Lines.Alignment.Details.First.results+={grammar.alignmentStatement}
 \\
 \\\\
-Oct.Grammar.Lines.Alignment.Details.First.results+=\\untranslated
+Oct.Grammar.Lines.Alignment.Details.First.results+=<Oct.Grammar.Noun.First.Think>: {grammar.alignmentStatement}
+Oct.Grammar.Lines.Alignment.Details.First.results+=<Oct.Grammar.Noun.First.Think>: {grammar.alignmentStatement}
+Oct.Grammar.Lines.Alignment.Details.First.results+={grammar.alignmentStatement}
 
 \\\\
 \\
@@ -37136,7 +37142,7 @@ Oct.Items.GrapplingHook.Bronze.pluralName=청동 갈고리
 \\	Oct.Items.GrapplingHook.Bronze.Projectile.name=Bronze Grappling Hook
 \\
 \\\\
-Oct.Items.GrapplingHook.Bronze.Projectile.name=\\untranslated
+Oct.Items.GrapplingHook.Bronze.Projectile.name=청동 갈고리
 
 \\\\
 \\
@@ -37157,7 +37163,7 @@ Oct.Items.GrapplingHook.Steel.pluralName=강철 갈고리
 \\	Oct.Items.GrapplingHook.Steel.Projectile.name=Steel Grappling Hook
 \\
 \\\\
-Oct.Items.GrapplingHook.Steel.Projectile.name=\\untranslated
+Oct.Items.GrapplingHook.Steel.Projectile.name=강철 갈고리
 
 \\\\
 \\
@@ -42217,7 +42223,6 @@ Oct.Kingdoms.Diplomacy.War.Conquer.details={from.kingdom}이(가) 우리 왕국�
 \\\\
 Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.lines+=좋습니다, 이제 이 문제를 해결해 보지요.
 Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.lines+=그래요, 해결을 해봅시다.
-Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.lines+=좋습니다, 그렇게 하시죠.
 
 \\\\
 \\
@@ -47884,35 +47889,35 @@ Oct.Petitions.Concession.Allegiance.Break.Mission.succeededCaption=충성 하기
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.caption=Release Vassal
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.caption=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.caption=속국 해방
 
 \\\\
 \\
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.details=We promised {petitioner} that we'd release {mission.target} from their Allegiance!<br><br>There will be consequences with {petitioner} if we break our promise.
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.details=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.details=우린 이미 {petitioner}에게 {mission.target}의 충성을 해방하겠다고 약속했습니다!<br><br>우리가 약속을 어기면 {petitioner}와(과) 문제가 생길 겁니다.
 
 \\\\
 \\
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.requestCaption=Promised
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.requestCaption=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.requestCaption=약속함
 
 \\\\
 \\
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.successCaption=Release Vassal
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.successCaption=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.successCaption=속국 해방
 
 \\\\
 \\
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.succeededCaption=Released Vassal
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.succeededCaption=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.succeededCaption=속국 해방함
 
 \\\\
 \\
@@ -48223,7 +48228,7 @@ Oct.Petitions.Defense.Shields.Conversation.Shield.Ranged.Melee.line=우리 근�
 \\	Oct.Petitions.Defense.Rams.Conversation.Ram.line={petitioner.address}, {rammer} is carrying a Battering Ram!
 \\
 \\\\
-Oct.Petitions.Defense.Rams.Conversation.Ram.line=\\untranslated
+Oct.Petitions.Defense.Rams.Conversation.Ram.line={petitioner.address}, {rammer}이(가) 공성추를 끌고 다닙니다!
 
 \\\\
 \\
@@ -48232,7 +48237,7 @@ Oct.Petitions.Defense.Rams.Conversation.Ram.line=\\untranslated
 \\	Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=They can use it make quick work of any Door that blocks them!
 \\
 \\\\
-Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=\\untranslated
+Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=저들이 공성추를 쓰면 무슨 문이든 금방 뚫릴 겁니다!
 
 \\\\
 \\
@@ -48241,7 +48246,7 @@ Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=\\untranslated
 \\	Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.NotIfStopped.line=Not if we stop them first!
 \\
 \\\\
-Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.NotIfStopped.line=\\untranslated
+Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.NotIfStopped.line=우리가 먼저 저지하면 되지!
 
 \\\\
 \\
@@ -50844,7 +50849,7 @@ Oct.Petitions.Tutorial.GatherBerries.Conversation.Surveyed.Bushes.Oh.Pick.line=�
 \\	Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+={petitioner.address}, {attackers} are about to attack {vassal}!
 \\
 \\\\
-Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+=\\untranslated
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+={attackers} 가 {vassal} 을 공격하고 있어요!\\autotranslated
 
 \\\\
 \\
@@ -50855,7 +50860,7 @@ Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+=\\untranslated
 \\	Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=We can interrupt them by negotiating for Peace.
 \\
 \\\\
-Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=\\untranslated
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=아마도 우리는 평화를 위해 협상해야 할 것입니다.\\autotranslated
 
 \\\\
 \\
@@ -50866,7 +50871,7 @@ Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=\\unt
 \\	Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=Hrm. Let me think about it.
 \\
 \\\\
-Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=\\untranslated
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=나에게 맡겨주세요.\\autotranslated
 
 \\\\
 \\
@@ -51645,14 +51650,14 @@ Oct.Places.Generators.Prefix.Noun.format={prefix} {noun}
 \\	Oct.Projectiles.FireArrow.name=Fire Arrow
 \\
 \\\\
-Oct.Projectiles.FireArrow.name=\\untranslated
+Oct.Projectiles.FireArrow.name=불화살
 
 \\\\
 \\
 \\	Oct.Projectiles.WoodenArrow.name=Wooden Arrow
 \\
 \\\\
-Oct.Projectiles.WoodenArrow.name=\\untranslated
+Oct.Projectiles.WoodenArrow.name=나무 화살
 
 \\\\
 \\
@@ -52555,28 +52560,28 @@ Oct.Props.Attached.FineStone.Spire.Mid.prefabs.2.name=중단 변형
 \\	Oct.Props.Ballista.Launcher.operateText=Operate
 \\
 \\\\
-Oct.Props.Ballista.Launcher.operateText=\\untranslated
+Oct.Props.Ballista.Launcher.operateText=작동
 
 \\\\
 \\
 \\	Oct.Props.Ballista.Launcher.operatingText=Operating {prop}
 \\
 \\\\
-Oct.Props.Ballista.Launcher.operatingText=\\untranslated
+Oct.Props.Ballista.Launcher.operatingText={prop} 작동 중
 
 \\\\
 \\
 \\	Oct.Props.Ballista.Launcher.operatingAtText=Firing {prop} at {target}
 \\
 \\\\
-Oct.Props.Ballista.Launcher.operatingAtText=\\untranslated
+Oct.Props.Ballista.Launcher.operatingAtText={target}에 {prop} 발사 중
 
 \\\\
 \\
 \\	Oct.Props.Ballista.Launcher.Projectile.name=Ballista Bolt
 \\
 \\\\
-Oct.Props.Ballista.Launcher.Projectile.name=\\untranslated
+Oct.Props.Ballista.Launcher.Projectile.name=발리스타 볼트
 
 \\\\
 \\
@@ -52611,21 +52616,21 @@ Oct.Props.Ballista.description=대형 발사 가능 소품.<br>정확하지만 �
 \\	Oct.Props.Ballista.colorSlots.1.name=Primary
 \\
 \\\\
-Oct.Props.Ballista.colorSlots.1.name=나무
+Oct.Props.Ballista.colorSlots.1.name=주요한\\autotranslated
 
 \\\\
 \\
 \\	Oct.Props.Ballista.colorSlots.2.name=Secondary
 \\
 \\\\
-Oct.Props.Ballista.colorSlots.2.name=나무
+Oct.Props.Ballista.colorSlots.2.name=반성\\autotranslated
 
 \\\\
 \\
 \\	Oct.Props.Ballista.colorSlots.3.name=Rope
 \\
 \\\\
-Oct.Props.Ballista.colorSlots.3.name=나무
+Oct.Props.Ballista.colorSlots.3.name=로프\\autotranslated
 
 \\\\
 \\
@@ -54592,7 +54597,7 @@ Oct.Props.Carpet.4CornerPrefab.name=4 코너
 \\	Oct.Props.Catapult.Launcher.Projectile.name=Boulder
 \\
 \\\\
-Oct.Props.Catapult.Launcher.Projectile.name=\\untranslated
+Oct.Props.Catapult.Launcher.Projectile.name=돌덩이
 
 \\\\
 \\
@@ -68055,7 +68060,7 @@ Oct.Settings.Game.RaidChance.name=습격 확률
 \\	Oct.Settings.Game.RaidChance.tooltip=Scales the frequency of Raids from NPC Kingdoms.
 \\
 \\\\
-Oct.Settings.Game.RaidChance.tooltip=\\untranslated
+Oct.Settings.Game.RaidChance.tooltip=NPC 왕국이 습격하는 빈도를 설정합니다.
 
 \\\\
 \\
@@ -68426,14 +68431,14 @@ Oct.Settings.Game.AI.Wealth.tooltip=AI 왕국이 재력을 얼마나 효율적�
 \\	Oct.Settings.Game.AI.InconveniencePremium.name=AI Kingdom Inconvenience Premium
 \\
 \\\\
-Oct.Settings.Game.AI.InconveniencePremium.name=\\untranslated
+Oct.Settings.Game.AI.InconveniencePremium.name=AI 킹덤 불편 프리미엄\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Game.AI.InconveniencePremium.tooltip=How much AI Kingdoms raise rates on Concessions for Items they consider inconvenient (< 25c per stack).
 \\
 \\\\
-Oct.Settings.Game.AI.InconveniencePremium.tooltip=\\untranslated
+Oct.Settings.Game.AI.InconveniencePremium.tooltip=AI 왕국이 불편하다고 생각하는 아이템에 대한 양보 요금을 얼마나 인상하는가(스택당 < 25c).\\autotranslated
 
 \\\\
 \\
@@ -68475,7 +68480,7 @@ Oct.Settings.Game.RaidDifficulty.name=습격 난이도
 \\	Oct.Settings.Game.RaidDifficulty.tooltip=Scales the difficulty of Raids from NPC Kingdoms.
 \\
 \\\\
-Oct.Settings.Game.RaidDifficulty.tooltip=\\untranslated
+Oct.Settings.Game.RaidDifficulty.tooltip=NPC 왕국이 감행하는 습격의 난이도를 설정합니다.
 
 \\\\
 \\
@@ -68496,14 +68501,14 @@ Oct.Settings.Game.RaidUnannounced.tooltip=활성화하면 습격이 일정 확�
 \\	Oct.Settings.Game.RaidDifficulty.Outgoing.name=Outgoing Raid Difficulty
 \\
 \\\\
-Oct.Settings.Game.RaidDifficulty.Outgoing.name=\\untranslated
+Oct.Settings.Game.RaidDifficulty.Outgoing.name=가는 습격 난이도
 
 \\\\
 \\
 \\	Oct.Settings.Game.RaidDifficulty.Outgoing.tooltip=Scales the difficulty of Raids from Player Kingdoms.
 \\
 \\\\
-Oct.Settings.Game.RaidDifficulty.Outgoing.tooltip=\\untranslated
+Oct.Settings.Game.RaidDifficulty.Outgoing.tooltip=플레이어 왕국이 감행하는 습격의 난이도를 설정합니다.
 
 \\\\
 \\
@@ -68888,21 +68893,21 @@ Oct.Settings.Global.Graphics.ShadowQuality.choices.2=낮음
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.3=Medium
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.3=높음
+Oct.Settings.Global.Graphics.ShadowQuality.choices.3=중간\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.4=High
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.4=\\untranslated
+Oct.Settings.Global.Graphics.ShadowQuality.choices.4=높음
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.5=Very High
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.5=\\untranslated
+Oct.Settings.Global.Graphics.ShadowQuality.choices.5=매우 높음\\autotranslated
 
 \\\\
 \\
@@ -68944,7 +68949,7 @@ Oct.Settings.Global.Graphics.FilmGrain.name=필름 그레인
 \\	Oct.Settings.Global.Graphics.EdgeHighlights.name=Edge Highlights
 \\
 \\\\
-Oct.Settings.Global.Graphics.EdgeHighlights.name=\\untranslated
+Oct.Settings.Global.Graphics.EdgeHighlights.name=테두리 강조 표시
 
 \\\\
 \\
@@ -68979,28 +68984,28 @@ Oct.Settings.Global.Graphics.Destruction.name=파괴
 \\	Oct.Settings.Global.Graphics.MainMenuSimulation.name=Main Menu Simulation
 \\
 \\\\
-Oct.Settings.Global.Graphics.MainMenuSimulation.name=\\untranslated
+Oct.Settings.Global.Graphics.MainMenuSimulation.name=메인 메뉴 시뮬레이션\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.MainMenuSimulation.tooltip=Controls whether a Simulation runs underneath the Main Menu.
 \\
 \\\\
-Oct.Settings.Global.Graphics.MainMenuSimulation.tooltip=\\untranslated
+Oct.Settings.Global.Graphics.MainMenuSimulation.tooltip=시뮬레이션이 메인 메뉴에서 실행될지 여부를 제어합니다.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ReachabilityResources.name=Reachability CPU
 \\
 \\\\
-Oct.Settings.Global.Graphics.ReachabilityResources.name=\\untranslated
+Oct.Settings.Global.Graphics.ReachabilityResources.name=도달 가능성 CPU\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ReachabilityResources.tooltip=Additional CPU Resources to dedicate to minimizing Reachability update latency. Decrease in latency is exponential, with 0% resulting in 10s of latency, 25% in ~1s, and 100% in ~.25s.
 \\
 \\\\
-Oct.Settings.Global.Graphics.ReachabilityResources.tooltip=\\untranslated
+Oct.Settings.Global.Graphics.ReachabilityResources.tooltip=Reachability 업데이트 지연 시간 최소화를 위해 CPU 리소스를 추가로 할당합니다. 지연 시간 감소는 기하급수적으로 증가하며, 0%일 경우 지연 시간이 10초, 25%일 경우 약 1초, 100%일 경우 약 0.25초가 소요됩니다.\\autotranslated
 
 \\\\
 \\
@@ -69805,7 +69810,7 @@ Oct.Settings.Global.Controls.Layers.Navigate.suffix=+ [휠]
 \\	Oct.Settings.Global.Controls.Layers.Navigate.Invert.name=Invert Layer Navigation
 \\
 \\\\
-Oct.Settings.Global.Controls.Layers.Navigate.Invert.name=\\untranslated
+Oct.Settings.Global.Controls.Layers.Navigate.Invert.name=레이어 탐색 반전\\autotranslated
 
 \\\\
 \\
